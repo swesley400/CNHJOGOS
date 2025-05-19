@@ -3,6 +3,7 @@ import SignGame from './components/SignGame';
 import Banner from './components/Banner';
 import CookieConsent from './components/CookieConsent';
 import PrivacyPolicy from './components/PrivacyPolicy';
+import SEOContent from './components/SEOContent';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -14,11 +15,13 @@ function App() {
           <Route path="/" element={
             <>
               <header className="App-header">
-                <h1>Jogo das Placas de Trânsito</h1>
+                <h1>Jogo de Placas de Trânsito | Simulado Online para Prova do DETRAN</h1>
+                <h2>Aprenda sinalização de trânsito jogando - Ideal para primeira habilitação (CNH)</h2>
               </header>
               <Banner />
               <main>
                 <SignGame />
+                {/* <SEOContent /> */}
               </main>
             </>
           } />
