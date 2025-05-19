@@ -1,0 +1,1997 @@
+[
+  {
+    "id": "alfandega_r_21",
+    "descricao": "alfandega R 21",
+    "imageLocal": "images/alfandega_r_21.png"
+  },
+  {
+    "id": "altura_maxima_permitida_r_15",
+    "descricao": "altura maxima permitida R 15",
+    "imageLocal": "images/altura_maxima_permitida_r_15.png"
+  },
+  {
+    "id": "ciclista_transite_a_direita_r_35b",
+    "descricao": "ciclista transite a direita R 35b",
+    "imageLocal": "images/ciclista_transite_a_direita_r_35b.png"
+  },
+  {
+    "id": "ciclista_transite_a_esquerda_r_35a",
+    "descricao": "ciclista transite a esquerda R 35a",
+    "imageLocal": "images/ciclista_transite_a_esquerda_r_35a.png"
+  },
+  {
+    "id": "ciclistas_a_esquerda_pedestres_a_direita_r_36a",
+    "descricao": "ciclistas a esquerda pedestres a direita R 36a",
+    "imageLocal": "images/ciclistas_a_esquerda_pedestres_a_direita_r_36a.png"
+  },
+  {
+    "id": "circulacao_exclusiva_de_bicicletas_r_34",
+    "descricao": "circulacao exclusiva de bicicletas R 34",
+    "imageLocal": "images/circulacao_exclusiva_de_bicicletas_r_34.png"
+  },
+  {
+    "id": "circulacao_exclusiva_de_caminhoes_r_39",
+    "descricao": "circulacao exclusiva de caminhoes R 39",
+    "imageLocal": "images/circulacao_exclusiva_de_caminhoes_r_39.png"
+  },
+  {
+    "id": "circulacao_exclusiva_de_onibus_r_32",
+    "descricao": "circulacao exclusiva de onibus R 32",
+    "imageLocal": "images/circulacao_exclusiva_de_onibus_r_32.png"
+  },
+  {
+    "id": "comprimento_maximo_permitido_r_18",
+    "descricao": "comprimento maximo permitido R 18",
+    "imageLocal": "images/comprimento_maximo_permitido_r_18.png"
+  },
+  {
+    "id": "conserve_se_a_direita_r_23",
+    "descricao": "conserve se a direita R 23",
+    "imageLocal": "images/conserve_se_a_direita_r_23.png"
+  },
+  {
+    "id": "de_preferencia_r_2",
+    "descricao": "de preferencia R 2",
+    "imageLocal": "images/de_preferencia_r_2.png"
+  },
+  {
+    "id": "duplo_sentido_de_circulacao_r_28",
+    "descricao": "duplo sentido de circulacao R 28",
+    "imageLocal": "images/duplo_sentido_de_circulacao_r_28.png"
+  },
+  {
+    "id": "estacionamento_regulamentado_r_6b",
+    "descricao": "estacionamento regulamentado R 6b",
+    "imageLocal": "images/estacionamento_regulamentado_r_6b.png"
+  },
+  {
+    "id": "largura_maxima_permitida_r_16",
+    "descricao": "largura maxima permitida R 16",
+    "imageLocal": "images/largura_maxima_permitida_r_16.png"
+  },
+  {
+    "id": "onibus_caminhoes_e_veiculos_de_grande_porte_mantenham_se_a_direita_r_27",
+    "descricao": "onibus caminhoes e veiculos de grande porte mantenham se a direita R 27",
+    "imageLocal": "images/onibus_caminhoes_e_veiculos_de_grande_porte_mantenham_se_a_direita_r_27.png"
+  },
+  {
+    "id": "parada_obrigatoria_r1",
+    "descricao": "parada obrigatoria R1",
+    "imageLocal": "images/parada_obrigatoria_r1.png"
+  },
+  {
+    "id": "passagem_obrigatoria_r_24b",
+    "descricao": "passagem obrigatoria R 24b",
+    "imageLocal": "images/passagem_obrigatoria_r_24b.png"
+  },
+  {
+    "id": "pedestre_ande_pela_direita_r_31",
+    "descricao": "pedestre ande pela direita R 31",
+    "imageLocal": "images/pedestre_ande_pela_direita_r_31.png"
+  },
+  {
+    "id": "pedestre_ande_pela_esquerda_r_30",
+    "descricao": "pedestre ande pela esquerda R 30",
+    "imageLocal": "images/pedestre_ande_pela_esquerda_r_30.png"
+  },
+  {
+    "id": "pedestres_a_esquerda_ciclistas_a_direita_r_36b",
+    "descricao": "pedestres a esquerda ciclistas a direita R 36b",
+    "imageLocal": "images/pedestres_a_esquerda_ciclistas_a_direita_r_36b.png"
+  },
+  {
+    "id": "peso_bruto_total_maximo_permitido_r_14",
+    "descricao": "peso bruto total maximo permitido R 14",
+    "imageLocal": "images/peso_bruto_total_maximo_permitido_r_14.png"
+  },
+  {
+    "id": "peso_maximo_permitido_por_eixo_r_17",
+    "descricao": "peso maximo permitido por eixo R 17",
+    "imageLocal": "images/peso_maximo_permitido_por_eixo_r_17.png"
+  },
+  {
+    "id": "proibido_acionar_buzina_ou_sinal_sonoro_r_20",
+    "descricao": "proibido acionar buzina ou sinal sonoro R 20",
+    "imageLocal": "images/proibido_acionar_buzina_ou_sinal_sonoro_r_20.png"
+  },
+  {
+    "id": "proibido_estacionar_r_6a",
+    "descricao": "proibido estacionar R 6a",
+    "imageLocal": "images/proibido_estacionar_r_6a.png"
+  },
+  {
+    "id": "proibido_mudar_de_faixa_ou_pista_de_transito_da_direita_para_esquerda_r_8b",
+    "descricao": "proibido mudar de faixa ou pista de transito da direita para esquerda R 8b",
+    "imageLocal": "images/proibido_mudar_de_faixa_ou_pista_de_transito_da_direita_para_esquerda_r_8b.png"
+  },
+  {
+    "id": "proibido_mudar_de_faixa_ou_pista_de_transito_da_esquerda_para_direita_r_8a",
+    "descricao": "proibido mudar de faixa ou pista de transito da esquerda para direita R 8a",
+    "imageLocal": "images/proibido_mudar_de_faixa_ou_pista_de_transito_da_esquerda_para_direita_r_8a.png"
+  },
+  {
+    "id": "proibido_parar_e_estacionar_r_6c",
+    "descricao": "proibido parar e estacionar R 6c",
+    "imageLocal": "images/proibido_parar_e_estacionar_r_6c.png"
+  },
+  {
+    "id": "proibido_retornar_a_direita_r_5b",
+    "descricao": "proibido retornar a direita R 5b",
+    "imageLocal": "images/proibido_retornar_a_direita_r_5b.png"
+  },
+  {
+    "id": "proibido_retornar_a_esquerda_r_5a",
+    "descricao": "proibido retornar a esquerda R 5a",
+    "imageLocal": "images/proibido_retornar_a_esquerda_r_5a.png"
+  },
+  {
+    "id": "proibido_transito_de_bicicletas_r_12",
+    "descricao": "proibido transito de bicicletas R 12",
+    "imageLocal": "images/proibido_transito_de_bicicletas_r_12.png"
+  },
+  {
+    "id": "proibido_transito_de_caminhoes_r_9",
+    "descricao": "proibido transito de caminhoes R 9",
+    "imageLocal": "images/proibido_transito_de_caminhoes_r_9.png"
+  },
+  {
+    "id": "proibido_transito_de_motocicletas_motonetas_e_ciclomotores_r_37",
+    "descricao": "proibido transito de motocicletas motonetas e ciclomotores R 37",
+    "imageLocal": "images/proibido_transito_de_motocicletas_motonetas_e_ciclomotores_r_37.png"
+  },
+  {
+    "id": "proibido_transito_de_onibus_r_38",
+    "descricao": "proibido transito de onibus R 38",
+    "imageLocal": "images/proibido_transito_de_onibus_r_38.png"
+  },
+  {
+    "id": "proibido_transito_de_pedestres_r_29",
+    "descricao": "proibido transito de pedestres R 29",
+    "imageLocal": "images/proibido_transito_de_pedestres_r_29.png"
+  },
+  {
+    "id": "proibido_transito_de_tratores_e_maquinas_de_obras_r_13",
+    "descricao": "proibido transito de tratores e maquinas de obras R 13",
+    "imageLocal": "images/proibido_transito_de_tratores_e_maquinas_de_obras_r_13.png"
+  },
+  {
+    "id": "proibido_transito_de_veiculos_auto_motores_r_10",
+    "descricao": "proibido transito de veiculos auto motores R 10",
+    "imageLocal": "images/proibido_transito_de_veiculos_auto_motores_r_10.png"
+  },
+  {
+    "id": "proibido_transito_de_veiculos_de_tracao_animal_r_11",
+    "descricao": "proibido transito de veiculos de tracao animal R 11",
+    "imageLocal": "images/proibido_transito_de_veiculos_de_tracao_animal_r_11.png"
+  },
+  {
+    "id": "proibido_ultrapassar_r_7",
+    "descricao": "proibido ultrapassar R 7",
+    "imageLocal": "images/proibido_ultrapassar_r_7.png"
+  },
+  {
+    "id": "proibido_virar_a_direita_r_4b",
+    "descricao": "proibido virar a direita R 4b",
+    "imageLocal": "images/proibido_virar_a_direita_r_4b.png"
+  },
+  {
+    "id": "proibido_virar_a_esquerda_r_4a",
+    "descricao": "proibido virar a esquerda R 4a",
+    "imageLocal": "images/proibido_virar_a_esquerda_r_4a.png"
+  },
+  {
+    "id": "regulamentacao_inform_1",
+    "descricao": "regulamentacao Inform 1",
+    "imageLocal": "images/regulamentacao_inform_1.png"
+  },
+  {
+    "id": "regulamentacao_inform_10",
+    "descricao": "regulamentacao Inform 10",
+    "imageLocal": "images/regulamentacao_inform_10.png"
+  },
+  {
+    "id": "regulamentacao_inform_11",
+    "descricao": "regulamentacao Inform 11",
+    "imageLocal": "images/regulamentacao_inform_11.png"
+  },
+  {
+    "id": "regulamentacao_inform_12",
+    "descricao": "regulamentacao Inform 12",
+    "imageLocal": "images/regulamentacao_inform_12.png"
+  },
+  {
+    "id": "regulamentacao_inform_13",
+    "descricao": "regulamentacao Inform 13",
+    "imageLocal": "images/regulamentacao_inform_13.png"
+  },
+  {
+    "id": "regulamentacao_inform_14",
+    "descricao": "regulamentacao Inform 14",
+    "imageLocal": "images/regulamentacao_inform_14.png"
+  },
+  {
+    "id": "regulamentacao_inform_15",
+    "descricao": "regulamentacao Inform 15",
+    "imageLocal": "images/regulamentacao_inform_15.png"
+  },
+  {
+    "id": "regulamentacao_inform_2",
+    "descricao": "regulamentacao Inform 2",
+    "imageLocal": "images/regulamentacao_inform_2.png"
+  },
+  {
+    "id": "regulamentacao_inform_3",
+    "descricao": "regulamentacao Inform 3",
+    "imageLocal": "images/regulamentacao_inform_3.png"
+  },
+  {
+    "id": "regulamentacao_inform_4",
+    "descricao": "regulamentacao Inform 4",
+    "imageLocal": "images/regulamentacao_inform_4.png"
+  },
+  {
+    "id": "regulamentacao_inform_5",
+    "descricao": "regulamentacao Inform 5",
+    "imageLocal": "images/regulamentacao_inform_5.png"
+  },
+  {
+    "id": "regulamentacao_inform_6",
+    "descricao": "regulamentacao Inform 6",
+    "imageLocal": "images/regulamentacao_inform_6.png"
+  },
+  {
+    "id": "regulamentacao_inform_7",
+    "descricao": "regulamentacao Inform 7",
+    "imageLocal": "images/regulamentacao_inform_7.png"
+  },
+  {
+    "id": "regulamentacao_inform_8",
+    "descricao": "regulamentacao Inform 8",
+    "imageLocal": "images/regulamentacao_inform_8.png"
+  },
+  {
+    "id": "regulamentacao_inform_9",
+    "descricao": "regulamentacao Inform 9",
+    "imageLocal": "images/regulamentacao_inform_9.png"
+  },
+  {
+    "id": "sentido_circular_na_rota_r_33",
+    "descricao": "sentido circular na rota R 33",
+    "imageLocal": "images/sentido_circular_na_rota_r_33.png"
+  },
+  {
+    "id": "sentido_de_circulacao_da_via_ou_pista_r_24a",
+    "descricao": "sentido de circulacao da via ou pista R 24a",
+    "imageLocal": "images/sentido_de_circulacao_da_via_ou_pista_r_24a.png"
+  },
+  {
+    "id": "sentido_proibido_r_3",
+    "descricao": "sentido proibido R 3",
+    "imageLocal": "images/sentido_proibido_r_3.png"
+  },
+  {
+    "id": "siga_em_frente_r_26",
+    "descricao": "siga em frente R 26",
+    "imageLocal": "images/siga_em_frente_r_26.png"
+  },
+  {
+    "id": "siga_em_frente_ou_a_direita_r_25d",
+    "descricao": "siga em frente ou a direita R 25d",
+    "imageLocal": "images/siga_em_frente_ou_a_direita_r_25d.png"
+  },
+  {
+    "id": "siga_em_frente_ou_a_esquerda_r_25c",
+    "descricao": "siga em frente ou a esquerda R 25c",
+    "imageLocal": "images/siga_em_frente_ou_a_esquerda_r_25c.png"
+  },
+  {
+    "id": "transito_proibido_a_carros_de_mao_r_40",
+    "descricao": "transito proibido a carros de mao R 40",
+    "imageLocal": "images/transito_proibido_a_carros_de_mao_r_40.png"
+  },
+  {
+    "id": "uso_obrigatorio_de_corrente_r_22",
+    "descricao": "uso obrigatorio de corrente R 22",
+    "imageLocal": "images/uso_obrigatorio_de_corrente_r_22.png"
+  },
+  {
+    "id": "velocidade_maxima_permitida_r_19",
+    "descricao": "velocidade maxima permitida R 19",
+    "imageLocal": "images/velocidade_maxima_permitida_r_19.png"
+  },
+  {
+    "id": "vire_a_direita_r_25b",
+    "descricao": "vire a direita R 25b",
+    "imageLocal": "images/vire_a_direita_r_25b.png"
+  },
+  {
+    "id": "vire_a_esquerda_r_25a",
+    "descricao": "vire a esquerda R 25a",
+    "imageLocal": "images/vire_a_esquerda_r_25a.png"
+  },
+  {
+    "id": "aclive_acentuado_a_20b",
+    "descricao": "aclive acentuado A 20b",
+    "imageLocal": "images/aclive_acentuado_a_20b.png"
+  },
+  {
+    "id": "advertencia_inform_1",
+    "descricao": "advertencia Inform 1",
+    "imageLocal": "images/advertencia_inform_1.png"
+  },
+  {
+    "id": "advertencia_inform_10",
+    "descricao": "advertencia Inform 10",
+    "imageLocal": "images/advertencia_inform_10.png"
+  },
+  {
+    "id": "advertencia_inform_11",
+    "descricao": "advertencia Inform 11",
+    "imageLocal": "images/advertencia_inform_11.png"
+  },
+  {
+    "id": "advertencia_inform_12",
+    "descricao": "advertencia Inform 12",
+    "imageLocal": "images/advertencia_inform_12.png"
+  },
+  {
+    "id": "advertencia_inform_13",
+    "descricao": "advertencia Inform 13",
+    "imageLocal": "images/advertencia_inform_13.png"
+  },
+  {
+    "id": "advertencia_inform_14",
+    "descricao": "advertencia Inform 14",
+    "imageLocal": "images/advertencia_inform_14.png"
+  },
+  {
+    "id": "advertencia_inform_15",
+    "descricao": "advertencia Inform 15",
+    "imageLocal": "images/advertencia_inform_15.png"
+  },
+  {
+    "id": "advertencia_inform_16",
+    "descricao": "advertencia Inform 16",
+    "imageLocal": "images/advertencia_inform_16.png"
+  },
+  {
+    "id": "advertencia_inform_17",
+    "descricao": "advertencia Inform 17",
+    "imageLocal": "images/advertencia_inform_17.png"
+  },
+  {
+    "id": "advertencia_inform_18",
+    "descricao": "advertencia Inform 18",
+    "imageLocal": "images/advertencia_inform_18.png"
+  },
+  {
+    "id": "advertencia_inform_19",
+    "descricao": "advertencia Inform 19",
+    "imageLocal": "images/advertencia_inform_19.png"
+  },
+  {
+    "id": "advertencia_inform_2",
+    "descricao": "advertencia Inform 2",
+    "imageLocal": "images/advertencia_inform_2.png"
+  },
+  {
+    "id": "advertencia_inform_20",
+    "descricao": "advertencia Inform 20",
+    "imageLocal": "images/advertencia_inform_20.png"
+  },
+  {
+    "id": "advertencia_inform_21",
+    "descricao": "advertencia Inform 21",
+    "imageLocal": "images/advertencia_inform_21.png"
+  },
+  {
+    "id": "advertencia_inform_3",
+    "descricao": "advertencia Inform 3",
+    "imageLocal": "images/advertencia_inform_3.png"
+  },
+  {
+    "id": "advertencia_inform_4",
+    "descricao": "advertencia Inform 4",
+    "imageLocal": "images/advertencia_inform_4.png"
+  },
+  {
+    "id": "advertencia_inform_5",
+    "descricao": "advertencia Inform 5",
+    "imageLocal": "images/advertencia_inform_5.png"
+  },
+  {
+    "id": "advertencia_inform_6",
+    "descricao": "advertencia Inform 6",
+    "imageLocal": "images/advertencia_inform_6.png"
+  },
+  {
+    "id": "advertencia_inform_7",
+    "descricao": "advertencia Inform 7",
+    "imageLocal": "images/advertencia_inform_7.png"
+  },
+  {
+    "id": "advertencia_inform_8",
+    "descricao": "advertencia Inform 8",
+    "imageLocal": "images/advertencia_inform_8.png"
+  },
+  {
+    "id": "advertencia_inform_9",
+    "descricao": "advertencia Inform 9",
+    "imageLocal": "images/advertencia_inform_9.png"
+  },
+  {
+    "id": "aeroporto_a_43",
+    "descricao": "aeroporto A 43",
+    "imageLocal": "images/aeroporto_a_43.png"
+  },
+  {
+    "id": "alargamento_de_pista_a_direita_a_21e",
+    "descricao": "alargamento de pista a direita A 21e",
+    "imageLocal": "images/alargamento_de_pista_a_direita_a_21e.png"
+  },
+  {
+    "id": "alargamento_de_pista_a_esquerda_a_21d",
+    "descricao": "alargamento de pista a esquerda A 21d",
+    "imageLocal": "images/alargamento_de_pista_a_esquerda_a_21d.png"
+  },
+  {
+    "id": "altura_limitada_a_37",
+    "descricao": "altura limitada A 37",
+    "imageLocal": "images/altura_limitada_a_37.png"
+  },
+  {
+    "id": "animais_a_35",
+    "descricao": "animais A 35",
+    "imageLocal": "images/animais_a_35.png"
+  },
+  {
+    "id": "animais_selvagens_a_36",
+    "descricao": "animais selvagens A 36",
+    "imageLocal": "images/animais_selvagens_a_36.png"
+  },
+  {
+    "id": "area_com_desmoronamento_a_27",
+    "descricao": "area com desmoronamento A 27",
+    "imageLocal": "images/area_com_desmoronamento_a_27.png"
+  },
+  {
+    "id": "area_escolar_a_33a",
+    "descricao": "area escolar A 33a",
+    "imageLocal": "images/area_escolar_a_33a.png"
+  },
+  {
+    "id": "bonde_a_16",
+    "descricao": "bonde A 16",
+    "imageLocal": "images/bonde_a_16.png"
+  },
+  {
+    "id": "comprimento_limitado_a_48",
+    "descricao": "comprimento limitado A 48",
+    "imageLocal": "images/comprimento_limitado_a_48.png"
+  },
+  {
+    "id": "confluencia_a_direita_a_13b",
+    "descricao": "confluencia a direita A 13b",
+    "imageLocal": "images/confluencia_a_direita_a_13b.png"
+  },
+  {
+    "id": "confluencia_a_esquerda_a_13a",
+    "descricao": "confluencia a esquerda A 13a",
+    "imageLocal": "images/confluencia_a_esquerda_a_13a.png"
+  },
+  {
+    "id": "criancas_a_34",
+    "descricao": "criancas A 34",
+    "imageLocal": "images/criancas_a_34.png"
+  },
+  {
+    "id": "cruz_de_santo_andre_a_41",
+    "descricao": "cruz de santo andre A 41",
+    "imageLocal": "images/cruz_de_santo_andre_a_41.png"
+  },
+  {
+    "id": "cruzamento_de_vias_a_6",
+    "descricao": "cruzamento de vias A 6",
+    "imageLocal": "images/cruzamento_de_vias_a_6.png"
+  },
+  {
+    "id": "curva_a_direita_a_2b",
+    "descricao": "curva a direita A 2b",
+    "imageLocal": "images/curva_a_direita_a_2b.png"
+  },
+  {
+    "id": "curva_a_esquerda_a_2a",
+    "descricao": "curva a esquerda A 2a",
+    "imageLocal": "images/curva_a_esquerda_a_2a.png"
+  },
+  {
+    "id": "curva_acentuada_a_direita_a_1b",
+    "descricao": "curva acentuada a direita A 1b",
+    "imageLocal": "images/curva_acentuada_a_direita_a_1b.png"
+  },
+  {
+    "id": "curva_acentuada_a_esquerda_a_1a",
+    "descricao": "curva acentuada a esquerda A 1a",
+    "imageLocal": "images/curva_acentuada_a_esquerda_a_1a.png"
+  },
+  {
+    "id": "curva_acentuada_em_s_a_direita_a_4b",
+    "descricao": "curva acentuada em s a direita A 4b",
+    "imageLocal": "images/curva_acentuada_em_s_a_direita_a_4b.png"
+  },
+  {
+    "id": "curva_acentuada_em_s_a_esquerda_a_4a",
+    "descricao": "curva acentuada em s a esquerda A 4a",
+    "imageLocal": "images/curva_acentuada_em_s_a_esquerda_a_4a.png"
+  },
+  {
+    "id": "curva_em_s_a_direita_a_5b",
+    "descricao": "curva em s a direita A 5b",
+    "imageLocal": "images/curva_em_s_a_direita_a_5b.png"
+  },
+  {
+    "id": "curva_em_s_a_esquerda_a_5a",
+    "descricao": "curva em s a esquerda A 5a",
+    "imageLocal": "images/curva_em_s_a_esquerda_a_5a.png"
+  },
+  {
+    "id": "declive_acentuado_a_20a",
+    "descricao": "declive acentuado A 20a",
+    "imageLocal": "images/declive_acentuado_a_20a.png"
+  },
+  {
+    "id": "depressao_a_19",
+    "descricao": "depressao A 19",
+    "imageLocal": "images/depressao_a_19.png"
+  },
+  {
+    "id": "difurcacao_em_y_a_9",
+    "descricao": "difurcacao em Y A 9",
+    "imageLocal": "images/difurcacao_em_y_a_9.png"
+  },
+  {
+    "id": "entroncamento_obliquo_a_direita_a_10b",
+    "descricao": "entroncamento obliquo a direita A 10b",
+    "imageLocal": "images/entroncamento_obliquo_a_direita_a_10b.png"
+  },
+  {
+    "id": "entroncamento_obliquo_a_esquerda_a_10a",
+    "descricao": "entroncamento obliquo a esquerda A 10a",
+    "imageLocal": "images/entroncamento_obliquo_a_esquerda_a_10a.png"
+  },
+  {
+    "id": "estreitamento_de_pista_a_direita_a_21c",
+    "descricao": "estreitamento de pista a direita A 21c",
+    "imageLocal": "images/estreitamento_de_pista_a_direita_a_21c.png"
+  },
+  {
+    "id": "estreitamento_de_pista_a_esquerda_a_21b",
+    "descricao": "estreitamento de pista a esquerda A 21b",
+    "imageLocal": "images/estreitamento_de_pista_a_esquerda_a_21b.png"
+  },
+  {
+    "id": "estreitamento_de_pista_ao_centro_a_21a",
+    "descricao": "estreitamento de pista ao centro A 21a",
+    "imageLocal": "images/estreitamento_de_pista_ao_centro_a_21a.png"
+  },
+  {
+    "id": "fim_de_pista_dupla_a_42b",
+    "descricao": "fim de pista dupla A 42b",
+    "imageLocal": "images/fim_de_pista_dupla_a_42b.png"
+  },
+  {
+    "id": "inicio_de_pista_dupla_a_42a",
+    "descricao": "inicio de pista dupla A 42a",
+    "imageLocal": "images/inicio_de_pista_dupla_a_42a.png"
+  },
+  {
+    "id": "intersecao_em_t_a_8",
+    "descricao": "intersecao em T A 8",
+    "imageLocal": "images/intersecao_em_t_a_8.png"
+  },
+  {
+    "id": "intersecao_em_circulo_a_12",
+    "descricao": "intersecao em circulo A 12",
+    "imageLocal": "images/intersecao_em_circulo_a_12.png"
+  },
+  {
+    "id": "juncoes_sucessivas_contrarias_primeira_a_direita_a_11b",
+    "descricao": "juncoes sucessivas contrarias primeira a direita A 11b",
+    "imageLocal": "images/juncoes_sucessivas_contrarias_primeira_a_direita_a_11b.png"
+  },
+  {
+    "id": "juncoes_sucessivas_contrarias_primeira_a_esquerda_a_11a",
+    "descricao": "juncoes sucessivas contrarias primeira a esquerda A 11a",
+    "imageLocal": "images/juncoes_sucessivas_contrarias_primeira_a_esquerda_a_11a.png"
+  },
+  {
+    "id": "largura_limitada_a_38",
+    "descricao": "largura limitada A 38",
+    "imageLocal": "images/largura_limitada_a_38.png"
+  },
+  {
+    "id": "mao_dupla_adiante_a_25",
+    "descricao": "mao dupla adiante A 25",
+    "imageLocal": "images/mao_dupla_adiante_a_25.png"
+  },
+  {
+    "id": "obras_a_24",
+    "descricao": "obras A 24",
+    "imageLocal": "images/obras_a_24.png"
+  },
+  {
+    "id": "parada_obrigatoria_a_frente_a_15",
+    "descricao": "parada obrigatoria a frente A 15",
+    "imageLocal": "images/parada_obrigatoria_a_frente_a_15.png"
+  },
+  {
+    "id": "passagem_de_nivel_com_barreira_a_40",
+    "descricao": "passagem de nivel com barreira A 40",
+    "imageLocal": "images/passagem_de_nivel_com_barreira_a_40.png"
+  },
+  {
+    "id": "passagem_de_nivel_sem_barreira_a_39",
+    "descricao": "passagem de nivel sem barreira A 39",
+    "imageLocal": "images/passagem_de_nivel_sem_barreira_a_39.png"
+  },
+  {
+    "id": "passagem_sinalizada_de_ciclistas_a_30b",
+    "descricao": "passagem sinalizada de ciclistas A 30b",
+    "imageLocal": "images/passagem_sinalizada_de_ciclistas_a_30b.png"
+  },
+  {
+    "id": "passagem_sinalizada_de_escolares_a_33b",
+    "descricao": "passagem sinalizada de escolares A 33b",
+    "imageLocal": "images/passagem_sinalizada_de_escolares_a_33b.png"
+  },
+  {
+    "id": "passagem_sinalizada_de_pedestres_a_32b",
+    "descricao": "passagem sinalizada de pedestres A 32b",
+    "imageLocal": "images/passagem_sinalizada_de_pedestres_a_32b.png"
+  },
+  {
+    "id": "peso_bruto_total_limitado_a_46",
+    "descricao": "peso bruto total limitado A 46",
+    "imageLocal": "images/peso_bruto_total_limitado_a_46.png"
+  },
+  {
+    "id": "peso_limitado_por_eixo_a_47",
+    "descricao": "peso limitado por eixo A 47",
+    "imageLocal": "images/peso_limitado_por_eixo_a_47.png"
+  },
+  {
+    "id": "pista_dividida_a_42c",
+    "descricao": "pista dividida A 42c",
+    "imageLocal": "images/pista_dividida_a_42c.png"
+  },
+  {
+    "id": "pista_escorregadia_a_28",
+    "descricao": "pista escorregadia A 28",
+    "imageLocal": "images/pista_escorregadia_a_28.png"
+  },
+  {
+    "id": "pista_irregular_a_17",
+    "descricao": "pista irregular A 17",
+    "imageLocal": "images/pista_irregular_a_17.png"
+  },
+  {
+    "id": "pista_sinuosa_a_direita_a_3b",
+    "descricao": "pista sinuosa a direita A 3b",
+    "imageLocal": "images/pista_sinuosa_a_direita_a_3b.png"
+  },
+  {
+    "id": "pista_sinuosa_a_esquerda_a_3a",
+    "descricao": "pista sinuosa a esquerda A 3a",
+    "imageLocal": "images/pista_sinuosa_a_esquerda_a_3a.png"
+  },
+  {
+    "id": "ponte_estreita_a_22",
+    "descricao": "ponte estreita A 22",
+    "imageLocal": "images/ponte_estreita_a_22.png"
+  },
+  {
+    "id": "ponte_movel_a_23",
+    "descricao": "ponte movel A 23",
+    "imageLocal": "images/ponte_movel_a_23.png"
+  },
+  {
+    "id": "projecao_de_cascalho_a_29",
+    "descricao": "projecao de cascalho A 29",
+    "imageLocal": "images/projecao_de_cascalho_a_29.png"
+  },
+  {
+    "id": "rua_sem_saida_a_45",
+    "descricao": "rua sem saida A 45",
+    "imageLocal": "images/rua_sem_saida_a_45.png"
+  },
+  {
+    "id": "saliencia_ou_lombada_a_18",
+    "descricao": "saliencia ou lombada A 18",
+    "imageLocal": "images/saliencia_ou_lombada_a_18.png"
+  },
+  {
+    "id": "semaforo_a_frente_a_14",
+    "descricao": "semaforo a frente A 14",
+    "imageLocal": "images/semaforo_a_frente_a_14.png"
+  },
+  {
+    "id": "sentido_duplo_a_26b",
+    "descricao": "sentido duplo A 26b",
+    "imageLocal": "images/sentido_duplo_a_26b.png"
+  },
+  {
+    "id": "sentido_unico_a_26a",
+    "descricao": "sentido unico A 26a",
+    "imageLocal": "images/sentido_unico_a_26a.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_faixas_ou_pistas_exclusivas_de_onibus_2",
+    "descricao": "sinalizacao especial de advertencia para faixas ou pistas exclusivas de onibus 2",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_faixas_ou_pistas_exclusivas_de_onibus_2.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_faixas_ou_pistas_exclusivas_de_onibus_3",
+    "descricao": "sinalizacao especial de advertencia para faixas ou pistas exclusivas de onibus 3",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_faixas_ou_pistas_exclusivas_de_onibus_3.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_faixas_ou_pistas_exclusivas_de_onibus_4",
+    "descricao": "sinalizacao especial de advertencia para faixas ou pistas exclusivas de onibus 4",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_faixas_ou_pistas_exclusivas_de_onibus_4.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_faixas_ou_pistas_exclusivas_de_onibus",
+    "descricao": "sinalizacao especial de advertencia para faixas ou pistas exclusivas de onibus",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_faixas_ou_pistas_exclusivas_de_onibus.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_pedestres_2",
+    "descricao": "sinalizacao especial de advertencia para pedestres 2",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_pedestres_2.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_pedestres",
+    "descricao": "sinalizacao especial de advertencia para pedestres",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_pedestres.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_condicoes_da_pista_ou_condico",
+    "descricao": "sinalizacao especial de advertencia para restricoes ou imposicoes para condicoes da pista ou condicoes climaticas 2",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_condicoes_da_pista_ou_condico.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_condicoes_da_pista_ou_condico",
+    "descricao": "sinalizacao especial de advertencia para restricoes ou imposicoes para condicoes da pista ou condicoes climaticas 3",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_condicoes_da_pista_ou_condico.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_condicoes_da_pista_ou_condico",
+    "descricao": "sinalizacao especial de advertencia para restricoes ou imposicoes para condicoes da pista ou condicoes climaticas",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_condicoes_da_pista_ou_condico.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_usuarios_da_via_2",
+    "descricao": "sinalizacao especial de advertencia para restricoes ou imposicoes para usuarios da via 2",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_usuarios_da_via_2.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_usuarios_da_via",
+    "descricao": "sinalizacao especial de advertencia para restricoes ou imposicoes para usuarios da via",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_restricoes_ou_imposicoes_para_usuarios_da_via.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_vias_de_transito_rapido_2",
+    "descricao": "sinalizacao especial de advertencia para vias de transito rapido 2",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_vias_de_transito_rapido_2.png"
+  },
+  {
+    "id": "sinalizacao_especial_de_advertencia_para_vias_de_transito_rapido",
+    "descricao": "sinalizacao especial de advertencia para vias de transito rapido",
+    "imageLocal": "images/sinalizacao_especial_de_advertencia_para_vias_de_transito_rapido.png"
+  },
+  {
+    "id": "transito_compartilhado_por_ciclistas_e_pedestres_a_30c",
+    "descricao": "transito compartilhado por ciclistas e pedestres A 30c",
+    "imageLocal": "images/transito_compartilhado_por_ciclistas_e_pedestres_a_30c.png"
+  },
+  {
+    "id": "transito_de_ciclistas_a_30a",
+    "descricao": "transito de ciclistas A 30a",
+    "imageLocal": "images/transito_de_ciclistas_a_30a.png"
+  },
+  {
+    "id": "transito_de_pedestres_a_32a",
+    "descricao": "transito de pedestres A 32a",
+    "imageLocal": "images/transito_de_pedestres_a_32a.png"
+  },
+  {
+    "id": "transito_de_tratores_ou_maquinaria_agricola_a_31",
+    "descricao": "transito de tratores ou maquinaria agricola A 31",
+    "imageLocal": "images/transito_de_tratores_ou_maquinaria_agricola_a_31.png"
+  },
+  {
+    "id": "vento_lateral_a_44",
+    "descricao": "vento lateral A 44",
+    "imageLocal": "images/vento_lateral_a_44.png"
+  },
+  {
+    "id": "via_lateral_a_direita_a_7b",
+    "descricao": "via lateral a direita A 7b",
+    "imageLocal": "images/via_lateral_a_direita_a_7b.png"
+  },
+  {
+    "id": "via_lateral_a_esquerda_a_7a",
+    "descricao": "via lateral a esquerda A 7a",
+    "imageLocal": "images/via_lateral_a_esquerda_a_7a.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_municipios_2",
+    "descricao": "placa de identificacao de municipios 2",
+    "imageLocal": "images/placa_de_identificacao_de_municipios_2.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_municipios",
+    "descricao": "placa de identificacao de municipios",
+    "imageLocal": "images/placa_de_identificacao_de_municipios.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_limite_de_municipios_divisa_de_es",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao de limite de municipios divisa de estados fronteira e perimetro urbano 2",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_limite_de_municipios_divisa_de_es.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_limite_de_municipios_divisa_de_es",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao de limite de municipios divisa de estados fronteira e perimetro urbano 3",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_limite_de_municipios_divisa_de_es.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_limite_de_municipios_divisa_de_es",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao de limite de municipios divisa de estados fronteira e perimetro urbano 4",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_limite_de_municipios_divisa_de_es.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_limite_de_municipios_divisa_de_es",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao de limite de municipios divisa de estados fronteira e perimetro urbano",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_limite_de_municipios_divisa_de_es.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_pedagio_2",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao de pedagio 2",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_pedagio_2.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_pedagio_3",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao de pedagio 3",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_pedagio_3.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_pedagio",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao de pedagio",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_de_pedagio.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_nominal_de_pontes_viadutos_tuneis_e_",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao nominal de pontes viadutos tuneis e passarelas 2",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_nominal_de_pontes_viadutos_tuneis_e_.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_nominal_de_pontes_viadutos_tuneis_e_",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao nominal de pontes viadutos tuneis e passarelas",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_nominal_de_pontes_viadutos_tuneis_e_.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_quilometrica_2",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao quilometrica 2",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_quilometrica_2.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_identificacao_quilometrica",
+    "descricao": "placa de identificacao de regioes de interesse de identificacao quilometrica",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_identificacao_quilometrica.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros_2",
+    "descricao": "placa de identificacao de regioes de interesse de trafego e logradouros 2",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros_2.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros_3",
+    "descricao": "placa de identificacao de regioes de interesse de trafego e logradouros 3",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros_3.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros_4",
+    "descricao": "placa de identificacao de regioes de interesse de trafego e logradouros 4",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros_4.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros_5",
+    "descricao": "placa de identificacao de regioes de interesse de trafego e logradouros 5",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros_5.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros",
+    "descricao": "placa de identificacao de regioes de interesse de trafego e logradouros",
+    "imageLocal": "images/placa_de_identificacao_de_regioes_de_interesse_de_trafego_e_logradouros.png"
+  },
+  {
+    "id": "placa_de_identificacao_rodovias_e_estradas_estaduais",
+    "descricao": "placa de identificacao rodovias e estradas estaduais",
+    "imageLocal": "images/placa_de_identificacao_rodovias_e_estradas_estaduais.png"
+  },
+  {
+    "id": "placa_de_identificacao_rodovias_e_estradas_federais",
+    "descricao": "placa de identificacao rodovias e estradas federais",
+    "imageLocal": "images/placa_de_identificacao_rodovias_e_estradas_federais.png"
+  },
+  {
+    "id": "placa_de_identificacao_rodovias_e_estradas_pan_americanas",
+    "descricao": "placa de identificacao rodovias e estradas pan americanas",
+    "imageLocal": "images/placa_de_identificacao_rodovias_e_estradas_pan_americanas.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_diagramada_2",
+    "descricao": "placa de orientacao de destino placa diagramada 2",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_diagramada_2.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_diagramada_3",
+    "descricao": "placa de orientacao de destino placa diagramada 3",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_diagramada_3.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_diagramada_4",
+    "descricao": "placa de orientacao de destino placa diagramada 4",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_diagramada_4.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_diagramada_5",
+    "descricao": "placa de orientacao de destino placa diagramada 5",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_diagramada_5.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_diagramada_6",
+    "descricao": "placa de orientacao de destino placa diagramada 6",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_diagramada_6.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_diagramada",
+    "descricao": "placa de orientacao de destino placa diagramada",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_diagramada.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_distancia_2",
+    "descricao": "placa de orientacao de destino placa indicativa de distancia 2",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_distancia_2.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_distancia_3",
+    "descricao": "placa de orientacao de destino placa indicativa de distancia 3",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_distancia_3.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_distancia_4",
+    "descricao": "placa de orientacao de destino placa indicativa de distancia 4",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_distancia_4.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_distancia_5",
+    "descricao": "placa de orientacao de destino placa indicativa de distancia 5",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_distancia_5.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_distancia",
+    "descricao": "placa de orientacao de destino placa indicativa de distancia",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_distancia.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_2",
+    "descricao": "placa de orientacao de destino placa indicativa de sentido direcao 2",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_2.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_3",
+    "descricao": "placa de orientacao de destino placa indicativa de sentido direcao 3",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_3.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_4",
+    "descricao": "placa de orientacao de destino placa indicativa de sentido direcao 4",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_4.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_5",
+    "descricao": "placa de orientacao de destino placa indicativa de sentido direcao 5",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_5.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_6",
+    "descricao": "placa de orientacao de destino placa indicativa de sentido direcao 6",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_6.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_7",
+    "descricao": "placa de orientacao de destino placa indicativa de sentido direcao 7",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_7.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_8",
+    "descricao": "placa de orientacao de destino placa indicativa de sentido direcao 8",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao_8.png"
+  },
+  {
+    "id": "placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao",
+    "descricao": "placa de orientacao de destino placa indicativa de sentido direcao",
+    "imageLocal": "images/placa_de_orientacao_de_destino_placa_indicativa_de_sentido_direcao.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_abastecimento",
+    "descricao": "placa de servicos auxiliares abastecimento",
+    "imageLocal": "images/placa_de_servicos_auxiliares_abastecimento.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_aeroporto",
+    "descricao": "placa de servicos auxiliares aeroporto",
+    "imageLocal": "images/placa_de_servicos_auxiliares_aeroporto.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_area_de_campismo",
+    "descricao": "placa de servicos auxiliares area de campismo",
+    "imageLocal": "images/placa_de_servicos_auxiliares_area_de_campismo.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_area_de_estacionamento",
+    "descricao": "placa de servicos auxiliares area de estacionamento",
+    "imageLocal": "images/placa_de_servicos_auxiliares_area_de_estacionamento.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_borracheiro",
+    "descricao": "placa de servicos auxiliares borracheiro",
+    "imageLocal": "images/placa_de_servicos_auxiliares_borracheiro.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_hotel",
+    "descricao": "placa de servicos auxiliares hotel",
+    "imageLocal": "images/placa_de_servicos_auxiliares_hotel.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_informacao_turistica",
+    "descricao": "placa de servicos auxiliares informacao turistica",
+    "imageLocal": "images/placa_de_servicos_auxiliares_informacao_turistica.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_pedagio",
+    "descricao": "placa de servicos auxiliares pedagio",
+    "imageLocal": "images/placa_de_servicos_auxiliares_pedagio.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_placa_para_condutores_2",
+    "descricao": "placa de servicos auxiliares placa para condutores 2",
+    "imageLocal": "images/placa_de_servicos_auxiliares_placa_para_condutores_2.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_placa_para_condutores",
+    "descricao": "placa de servicos auxiliares placa para condutores",
+    "imageLocal": "images/placa_de_servicos_auxiliares_placa_para_condutores.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_placa_para_pedestres_2",
+    "descricao": "placa de servicos auxiliares placa para pedestres 2",
+    "imageLocal": "images/placa_de_servicos_auxiliares_placa_para_pedestres_2.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_placa_para_pedestres_3",
+    "descricao": "placa de servicos auxiliares placa para pedestres 3",
+    "imageLocal": "images/placa_de_servicos_auxiliares_placa_para_pedestres_3.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_placa_para_pedestres_4",
+    "descricao": "placa de servicos auxiliares placa para pedestres 4",
+    "imageLocal": "images/placa_de_servicos_auxiliares_placa_para_pedestres_4.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_placa_para_pedestres",
+    "descricao": "placa de servicos auxiliares placa para pedestres",
+    "imageLocal": "images/placa_de_servicos_auxiliares_placa_para_pedestres.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_ponto_de_parada",
+    "descricao": "placa de servicos auxiliares ponto de parada",
+    "imageLocal": "images/placa_de_servicos_auxiliares_ponto_de_parada.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_pronto_socorro",
+    "descricao": "placa de servicos auxiliares pronto socorro",
+    "imageLocal": "images/placa_de_servicos_auxiliares_pronto_socorro.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_restaurante",
+    "descricao": "placa de servicos auxiliares restaurante",
+    "imageLocal": "images/placa_de_servicos_auxiliares_restaurante.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_servico_mecanico",
+    "descricao": "placa de servicos auxiliares servico mecanico",
+    "imageLocal": "images/placa_de_servicos_auxiliares_servico_mecanico.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_servico_telefonico",
+    "descricao": "placa de servicos auxiliares servico telefonico",
+    "imageLocal": "images/placa_de_servicos_auxiliares_servico_telefonico.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_terminal_ferroviario",
+    "descricao": "placa de servicos auxiliares terminal ferroviario",
+    "imageLocal": "images/placa_de_servicos_auxiliares_terminal_ferroviario.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_terminal_rodoviario",
+    "descricao": "placa de servicos auxiliares terminal rodoviario",
+    "imageLocal": "images/placa_de_servicos_auxiliares_terminal_rodoviario.png"
+  },
+  {
+    "id": "placa_de_servicos_auxiliares_transporte_sobre_agua",
+    "descricao": "placa de servicos auxiliares transporte sobre agua",
+    "imageLocal": "images/placa_de_servicos_auxiliares_transporte_sobre_agua.png"
+  },
+  {
+    "id": "placa_em_desuso_estacionamento_de_trailer",
+    "descricao": "placa em desuso estacionamento de trailer",
+    "imageLocal": "images/placa_em_desuso_estacionamento_de_trailer.png"
+  },
+  {
+    "id": "placa_em_desuso_passagem_protegida_para_pedestre",
+    "descricao": "placa em desuso passagem protegida para pedestre",
+    "imageLocal": "images/placa_em_desuso_passagem_protegida_para_pedestre.png"
+  },
+  {
+    "id": "placa_em_desuso_servico_sanitario",
+    "descricao": "placa em desuso servico sanitario",
+    "imageLocal": "images/placa_em_desuso_servico_sanitario.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_10",
+    "descricao": "sinalizacao de indicacao placa educativa 10",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_10.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_11",
+    "descricao": "sinalizacao de indicacao placa educativa 11",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_11.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_12",
+    "descricao": "sinalizacao de indicacao placa educativa 12",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_12.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_13",
+    "descricao": "sinalizacao de indicacao placa educativa 13",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_13.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_14",
+    "descricao": "sinalizacao de indicacao placa educativa 14",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_14.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_15",
+    "descricao": "sinalizacao de indicacao placa educativa 15",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_15.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_16",
+    "descricao": "sinalizacao de indicacao placa educativa 16",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_16.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_17",
+    "descricao": "sinalizacao de indicacao placa educativa 17",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_17.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_18",
+    "descricao": "sinalizacao de indicacao placa educativa 18",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_18.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_19",
+    "descricao": "sinalizacao de indicacao placa educativa 19",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_19.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_2",
+    "descricao": "sinalizacao de indicacao placa educativa 2",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_2.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_20",
+    "descricao": "sinalizacao de indicacao placa educativa 20",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_20.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_21",
+    "descricao": "sinalizacao de indicacao placa educativa 21",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_21.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_22",
+    "descricao": "sinalizacao de indicacao placa educativa 22",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_22.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_3",
+    "descricao": "sinalizacao de indicacao placa educativa 3",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_3.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_4",
+    "descricao": "sinalizacao de indicacao placa educativa 4",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_4.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_5",
+    "descricao": "sinalizacao de indicacao placa educativa 5",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_5.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_6",
+    "descricao": "sinalizacao de indicacao placa educativa 6",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_6.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_7",
+    "descricao": "sinalizacao de indicacao placa educativa 7",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_7.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_8",
+    "descricao": "sinalizacao de indicacao placa educativa 8",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_8.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa_9",
+    "descricao": "sinalizacao de indicacao placa educativa 9",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa_9.png"
+  },
+  {
+    "id": "sinalizacao_de_indicacao_placa_educativa",
+    "descricao": "sinalizacao de indicacao placa educativa",
+    "imageLocal": "images/sinalizacao_de_indicacao_placa_educativa.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_aeroclube",
+    "descricao": "area para pratica de esportes esportes aeroclube",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_aeroclube.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_automobilistico",
+    "descricao": "area para pratica de esportes esportes automobilistico",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_automobilistico.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_canoagem",
+    "descricao": "area para pratica de esportes esportes canoagem",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_canoagem.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_ciclismo",
+    "descricao": "area para pratica de esportes esportes ciclismo",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_ciclismo.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_equestres",
+    "descricao": "area para pratica de esportes esportes equestres",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_equestres.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_futebol",
+    "descricao": "area para pratica de esportes esportes futebol",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_futebol.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_golfe",
+    "descricao": "area para pratica de esportes esportes golfe",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_golfe.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_marina",
+    "descricao": "area para pratica de esportes esportes marina",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_marina.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_mergulho",
+    "descricao": "area para pratica de esportes esportes mergulho",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_mergulho.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_montanhismo",
+    "descricao": "area para pratica de esportes esportes montanhismo",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_montanhismo.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_nauticos",
+    "descricao": "area para pratica de esportes esportes nauticos",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_nauticos.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_pesca_esportiva",
+    "descricao": "area para pratica de esportes esportes pesca esportiva",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_pesca_esportiva.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_pesca_submarina",
+    "descricao": "area para pratica de esportes esportes pesca submarina",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_pesca_submarina.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_surfe",
+    "descricao": "area para pratica de esportes esportes surfe",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_surfe.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes_voo_livre",
+    "descricao": "area para pratica de esportes esportes voo livre",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes_voo_livre.png"
+  },
+  {
+    "id": "area_para_pratica_de_esportes_esportes",
+    "descricao": "area para pratica de esportes esportes",
+    "imageLocal": "images/area_para_pratica_de_esportes_esportes.png"
+  },
+  {
+    "id": "areas_de_recreacao_barco_de_passeio",
+    "descricao": "areas de recreacao barco de passeio",
+    "imageLocal": "images/areas_de_recreacao_barco_de_passeio.png"
+  },
+  {
+    "id": "areas_de_recreacao_mirante",
+    "descricao": "areas de recreacao mirante",
+    "imageLocal": "images/areas_de_recreacao_mirante.png"
+  },
+  {
+    "id": "areas_de_recreacao_parque_de_diversoes",
+    "descricao": "areas de recreacao parque de diversoes",
+    "imageLocal": "images/areas_de_recreacao_parque_de_diversoes.png"
+  },
+  {
+    "id": "areas_de_recreacao_parque_urbano",
+    "descricao": "areas de recreacao parque urbano",
+    "imageLocal": "images/areas_de_recreacao_parque_urbano.png"
+  },
+  {
+    "id": "areas_de_recreacao_praca",
+    "descricao": "areas de recreacao praca",
+    "imageLocal": "images/areas_de_recreacao_praca.png"
+  },
+  {
+    "id": "areas_de_recreacao_represa",
+    "descricao": "areas de recreacao represa",
+    "imageLocal": "images/areas_de_recreacao_represa.png"
+  },
+  {
+    "id": "areas_de_recreacao_teleferico",
+    "descricao": "areas de recreacao teleferico",
+    "imageLocal": "images/areas_de_recreacao_teleferico.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_arquitetura_historica",
+    "descricao": "atrativos historicos e culturais arquitetura historica",
+    "imageLocal": "images/atrativos_historicos_e_culturais_arquitetura_historica.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_arquitetura_militar",
+    "descricao": "atrativos historicos e culturais arquitetura militar",
+    "imageLocal": "images/atrativos_historicos_e_culturais_arquitetura_militar.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_arquitetura_religiosa",
+    "descricao": "atrativos historicos e culturais arquitetura religiosa",
+    "imageLocal": "images/atrativos_historicos_e_culturais_arquitetura_religiosa.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_biblioteca",
+    "descricao": "atrativos historicos e culturais biblioteca",
+    "imageLocal": "images/atrativos_historicos_e_culturais_biblioteca.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_centro_de_cultura",
+    "descricao": "atrativos historicos e culturais centro de cultura",
+    "imageLocal": "images/atrativos_historicos_e_culturais_centro_de_cultura.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_farol",
+    "descricao": "atrativos historicos e culturais farol",
+    "imageLocal": "images/atrativos_historicos_e_culturais_farol.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_monumento",
+    "descricao": "atrativos historicos e culturais monumento",
+    "imageLocal": "images/atrativos_historicos_e_culturais_monumento.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_museu",
+    "descricao": "atrativos historicos e culturais museu",
+    "imageLocal": "images/atrativos_historicos_e_culturais_museu.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_patrimonio_cultural",
+    "descricao": "atrativos historicos e culturais patrimonio cultural",
+    "imageLocal": "images/atrativos_historicos_e_culturais_patrimonio_cultural.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_ruina",
+    "descricao": "atrativos historicos e culturais ruina",
+    "imageLocal": "images/atrativos_historicos_e_culturais_ruina.png"
+  },
+  {
+    "id": "atrativos_historicos_e_culturais_sitio_arqueologico",
+    "descricao": "atrativos historicos e culturais sitio arqueologico",
+    "imageLocal": "images/atrativos_historicos_e_culturais_sitio_arqueologico.png"
+  },
+  {
+    "id": "atrativos_turisticos_naturais_cachoeira",
+    "descricao": "atrativos turisticos naturais cachoeira",
+    "imageLocal": "images/atrativos_turisticos_naturais_cachoeira.png"
+  },
+  {
+    "id": "atrativos_turisticos_naturais_estancia_hidromineral",
+    "descricao": "atrativos turisticos naturais estancia hidromineral",
+    "imageLocal": "images/atrativos_turisticos_naturais_estancia_hidromineral.png"
+  },
+  {
+    "id": "atrativos_turisticos_naturais_gruta",
+    "descricao": "atrativos turisticos naturais gruta",
+    "imageLocal": "images/atrativos_turisticos_naturais_gruta.png"
+  },
+  {
+    "id": "atrativos_turisticos_naturais_ilha",
+    "descricao": "atrativos turisticos naturais ilha",
+    "imageLocal": "images/atrativos_turisticos_naturais_ilha.png"
+  },
+  {
+    "id": "atrativos_turisticos_naturais_montanha",
+    "descricao": "atrativos turisticos naturais montanha",
+    "imageLocal": "images/atrativos_turisticos_naturais_montanha.png"
+  },
+  {
+    "id": "atrativos_turisticos_naturais_patrimonio_natural",
+    "descricao": "atrativos turisticos naturais patrimonio natural",
+    "imageLocal": "images/atrativos_turisticos_naturais_patrimonio_natural.png"
+  },
+  {
+    "id": "atrativos_turisticos_naturais_praia",
+    "descricao": "atrativos turisticos naturais praia",
+    "imageLocal": "images/atrativos_turisticos_naturais_praia.png"
+  },
+  {
+    "id": "atrativos_turisticos_naturais_rio_lago_lagoa",
+    "descricao": "atrativos turisticos naturais rio lago lagoa",
+    "imageLocal": "images/atrativos_turisticos_naturais_rio_lago_lagoa.png"
+  },
+  {
+    "id": "atrativos_turisticos_naturais_turismo_rural",
+    "descricao": "atrativos turisticos naturais turismo rural",
+    "imageLocal": "images/atrativos_turisticos_naturais_turismo_rural.png"
+  },
+  {
+    "id": "exemplo_de_compatibilizacao_entre_placa_de_orientacao_turistica_e_placa_de_orientacao_de_destino_2",
+    "descricao": "exemplo de compatibilizacao entre placa de orientacao turistica e placa de orientacao de destino 2",
+    "imageLocal": "images/exemplo_de_compatibilizacao_entre_placa_de_orientacao_turistica_e_placa_de_orientacao_de_destino_2.png"
+  },
+  {
+    "id": "exemplo_de_compatibilizacao_entre_placa_de_orientacao_turistica_e_placa_de_orientacao_de_destino",
+    "descricao": "exemplo de compatibilizacao entre placa de orientacao turistica e placa de orientacao de destino",
+    "imageLocal": "images/exemplo_de_compatibilizacao_entre_placa_de_orientacao_turistica_e_placa_de_orientacao_de_destino.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_artesanato",
+    "descricao": "locais para atividades de interesse turistico artesanato",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_artesanato.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_convencoes",
+    "descricao": "locais para atividades de interesse turistico convencoes",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_convencoes.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_exposicao_agropecuaria",
+    "descricao": "locais para atividades de interesse turistico exposicao agropecuaria",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_exposicao_agropecuaria.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_feira_tipica",
+    "descricao": "locais para atividades de interesse turistico feira tipica",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_feira_tipica.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_festas_populares",
+    "descricao": "locais para atividades de interesse turistico festas populares",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_festas_populares.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_pavilhao_de_feiras_e_exposicoes",
+    "descricao": "locais para atividades de interesse turistico pavilhao de feiras e exposicoes",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_pavilhao_de_feiras_e_exposicoes.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_planetario",
+    "descricao": "locais para atividades de interesse turistico planetario",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_planetario.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_rodeio",
+    "descricao": "locais para atividades de interesse turistico rodeio",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_rodeio.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_teatro",
+    "descricao": "locais para atividades de interesse turistico teatro",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_teatro.png"
+  },
+  {
+    "id": "locais_para_atividades_de_interesse_turistico_zoologico",
+    "descricao": "locais para atividades de interesse turistico zoologico",
+    "imageLocal": "images/locais_para_atividades_de_interesse_turistico_zoologico.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_atrativo_turistico_2",
+    "descricao": "placa de identificacao de atrativo turistico 2",
+    "imageLocal": "images/placa_de_identificacao_de_atrativo_turistico_2.png"
+  },
+  {
+    "id": "placa_de_identificacao_de_atrativo_turistico",
+    "descricao": "placa de identificacao de atrativo turistico",
+    "imageLocal": "images/placa_de_identificacao_de_atrativo_turistico.png"
+  },
+  {
+    "id": "placa_indicativa_de_distancia",
+    "descricao": "placa indicativa de distancia",
+    "imageLocal": "images/placa_indicativa_de_distancia.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_2",
+    "descricao": "placa indicativa de sentido 2",
+    "imageLocal": "images/placa_indicativa_de_sentido_2.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_3",
+    "descricao": "placa indicativa de sentido 3",
+    "imageLocal": "images/placa_indicativa_de_sentido_3.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_4",
+    "descricao": "placa indicativa de sentido 4",
+    "imageLocal": "images/placa_indicativa_de_sentido_4.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_5",
+    "descricao": "placa indicativa de sentido 5",
+    "imageLocal": "images/placa_indicativa_de_sentido_5.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_confirmacao_de_saida",
+    "descricao": "placa indicativa de sentido confirmacao de saida",
+    "imageLocal": "images/placa_indicativa_de_sentido_confirmacao_de_saida.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_confirmacao_em_frente",
+    "descricao": "placa indicativa de sentido confirmacao em frente",
+    "imageLocal": "images/placa_indicativa_de_sentido_confirmacao_em_frente.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_placa_diagramada",
+    "descricao": "placa indicativa de sentido placa diagramada",
+    "imageLocal": "images/placa_indicativa_de_sentido_placa_diagramada.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_placa_digramada_2",
+    "descricao": "placa indicativa de sentido placa digramada 2",
+    "imageLocal": "images/placa_indicativa_de_sentido_placa_digramada_2.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_placa_digramada_confirmacao_de_saida",
+    "descricao": "placa indicativa de sentido placa digramada confirmacao de saida",
+    "imageLocal": "images/placa_indicativa_de_sentido_placa_digramada_confirmacao_de_saida.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_placa_digramada_pre_sinalizacao",
+    "descricao": "placa indicativa de sentido placa digramada pre sinalizacao",
+    "imageLocal": "images/placa_indicativa_de_sentido_placa_digramada_pre_sinalizacao.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_posicionamento_na_pista_2",
+    "descricao": "placa indicativa de sentido posicionamento na pista 2",
+    "imageLocal": "images/placa_indicativa_de_sentido_posicionamento_na_pista_2.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_posicionamento_na_pista",
+    "descricao": "placa indicativa de sentido posicionamento na pista",
+    "imageLocal": "images/placa_indicativa_de_sentido_posicionamento_na_pista.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido_pre_sinalizacao",
+    "descricao": "placa indicativa de sentido pre sinalizacao",
+    "imageLocal": "images/placa_indicativa_de_sentido_pre_sinalizacao.png"
+  },
+  {
+    "id": "placa_indicativa_de_sentido",
+    "descricao": "placa indicativa de sentido",
+    "imageLocal": "images/placa_indicativa_de_sentido.png"
+  },
+  {
+    "id": "servico_variado_abastecimento",
+    "descricao": "servico variado abastecimento",
+    "imageLocal": "images/servico_variado_abastecimento.png"
+  },
+  {
+    "id": "servico_variado_area_de_campismo",
+    "descricao": "servico variado area de campismo",
+    "imageLocal": "images/servico_variado_area_de_campismo.png"
+  },
+  {
+    "id": "servico_variado_area_de_estacionamento",
+    "descricao": "servico variado area de estacionamento",
+    "imageLocal": "images/servico_variado_area_de_estacionamento.png"
+  },
+  {
+    "id": "servico_variado_borracharia",
+    "descricao": "servico variado borracharia",
+    "imageLocal": "images/servico_variado_borracharia.png"
+  },
+  {
+    "id": "servico_variado_cambio",
+    "descricao": "servico variado cambio",
+    "imageLocal": "images/servico_variado_cambio.png"
+  },
+  {
+    "id": "servico_variado_correio",
+    "descricao": "servico variado correio",
+    "imageLocal": "images/servico_variado_correio.png"
+  },
+  {
+    "id": "servico_variado_estacionamento_de_trailer",
+    "descricao": "servico variado estacionamento de trailer",
+    "imageLocal": "images/servico_variado_estacionamento_de_trailer.png"
+  },
+  {
+    "id": "servico_variado_hotel",
+    "descricao": "servico variado hotel",
+    "imageLocal": "images/servico_variado_hotel.png"
+  },
+  {
+    "id": "servico_variado_informacoes_turisticas",
+    "descricao": "servico variado informacoes turisticas",
+    "imageLocal": "images/servico_variado_informacoes_turisticas.png"
+  },
+  {
+    "id": "servico_variado_pronto_socorro",
+    "descricao": "servico variado pronto socorro",
+    "imageLocal": "images/servico_variado_pronto_socorro.png"
+  },
+  {
+    "id": "servico_variado_restaurante",
+    "descricao": "servico variado restaurante",
+    "imageLocal": "images/servico_variado_restaurante.png"
+  },
+  {
+    "id": "servico_variado_rua_24h",
+    "descricao": "servico variado rua 24h",
+    "imageLocal": "images/servico_variado_rua_24h.png"
+  },
+  {
+    "id": "servico_variado_servico_mecanico",
+    "descricao": "servico variado servico mecanico",
+    "imageLocal": "images/servico_variado_servico_mecanico.png"
+  },
+  {
+    "id": "servico_variado_servico_sanitario",
+    "descricao": "servico variado servico sanitario",
+    "imageLocal": "images/servico_variado_servico_sanitario.png"
+  },
+  {
+    "id": "servico_variado_servico_telefonico",
+    "descricao": "servico variado servico telefonico",
+    "imageLocal": "images/servico_variado_servico_telefonico.png"
+  },
+  {
+    "id": "servicos_de_transporte_aeroporto",
+    "descricao": "servicos de transporte aeroporto",
+    "imageLocal": "images/servicos_de_transporte_aeroporto.png"
+  },
+  {
+    "id": "servicos_de_transporte_ferroviario_e_metroviario",
+    "descricao": "servicos de transporte ferroviario e metroviario",
+    "imageLocal": "images/servicos_de_transporte_ferroviario_e_metroviario.png"
+  },
+  {
+    "id": "servicos_de_transporte_heliporto",
+    "descricao": "servicos de transporte heliporto",
+    "imageLocal": "images/servicos_de_transporte_heliporto.png"
+  },
+  {
+    "id": "servicos_de_transporte_ponto_de_parada",
+    "descricao": "servicos de transporte ponto de parada",
+    "imageLocal": "images/servicos_de_transporte_ponto_de_parada.png"
+  },
+  {
+    "id": "servicos_de_transporte_porto",
+    "descricao": "servicos de transporte porto",
+    "imageLocal": "images/servicos_de_transporte_porto.png"
+  },
+  {
+    "id": "servicos_de_transporte_terminal_aquaviario",
+    "descricao": "servicos de transporte terminal aquaviario",
+    "imageLocal": "images/servicos_de_transporte_terminal_aquaviario.png"
+  },
+  {
+    "id": "servicos_de_transporte_terminal_rodoviario",
+    "descricao": "servicos de transporte terminal rodoviario",
+    "imageLocal": "images/servicos_de_transporte_terminal_rodoviario.png"
+  },
+  {
+    "id": "servicos_de_transporte_transporte_sobre_agua",
+    "descricao": "servicos de transporte transporte sobre agua",
+    "imageLocal": "images/servicos_de_transporte_transporte_sobre_agua.png"
+  },
+  {
+    "id": "baias_de_emergencia_2",
+    "descricao": "baias de emergencia 2",
+    "imageLocal": "images/baias_de_emergencia_2.png"
+  },
+  {
+    "id": "baias_de_emergencia_3",
+    "descricao": "baias de emergencia 3",
+    "imageLocal": "images/baias_de_emergencia_3.png"
+  },
+  {
+    "id": "baias_de_emergencia_4",
+    "descricao": "baias de emergencia 4",
+    "imageLocal": "images/baias_de_emergencia_4.png"
+  },
+  {
+    "id": "baias_de_emergencia",
+    "descricao": "baias de emergencia",
+    "imageLocal": "images/baias_de_emergencia.png"
+  },
+  {
+    "id": "dispositivos_de_sinalizacao_de_alerta_2",
+    "descricao": "dispositivos de sinalizacao de alerta 2",
+    "imageLocal": "images/dispositivos_de_sinalizacao_de_alerta_2.png"
+  },
+  {
+    "id": "dispositivos_de_sinalizacao_de_alerta_3",
+    "descricao": "dispositivos de sinalizacao de alerta 3",
+    "imageLocal": "images/dispositivos_de_sinalizacao_de_alerta_3.png"
+  },
+  {
+    "id": "dispositivos_de_sinalizacao_de_alerta",
+    "descricao": "dispositivos de sinalizacao de alerta",
+    "imageLocal": "images/dispositivos_de_sinalizacao_de_alerta.png"
+  },
+  {
+    "id": "indicador_de_curva_acentuada_adiante_2",
+    "descricao": "indicador de curva acentuada adiante 2",
+    "imageLocal": "images/indicador_de_curva_acentuada_adiante_2.png"
+  },
+  {
+    "id": "indicador_de_curva_acentuada_adiante_3",
+    "descricao": "indicador de curva acentuada adiante 3",
+    "imageLocal": "images/indicador_de_curva_acentuada_adiante_3.png"
+  },
+  {
+    "id": "indicador_de_curva_acentuada_adiante",
+    "descricao": "indicador de curva acentuada adiante",
+    "imageLocal": "images/indicador_de_curva_acentuada_adiante.png"
+  },
+  {
+    "id": "marcador_de_perigo_2",
+    "descricao": "marcador de perigo 2",
+    "imageLocal": "images/marcador_de_perigo_2.png"
+  },
+  {
+    "id": "marcador_de_perigo_3",
+    "descricao": "marcador de perigo 3",
+    "imageLocal": "images/marcador_de_perigo_3.png"
+  },
+  {
+    "id": "marcador_de_perigo_4",
+    "descricao": "marcador de perigo 4",
+    "imageLocal": "images/marcador_de_perigo_4.png"
+  },
+  {
+    "id": "marcador_de_perigo",
+    "descricao": "marcador de perigo",
+    "imageLocal": "images/marcador_de_perigo.png"
+  },
+  {
+    "id": "marcadores_de_alinhamento",
+    "descricao": "marcadores de alinhamento",
+    "imageLocal": "images/marcadores_de_alinhamento.png"
+  },
+  {
+    "id": "obras_altura_limitada",
+    "descricao": "obras altura limitada",
+    "imageLocal": "images/obras_altura_limitada.png"
+  },
+  {
+    "id": "obras_area_com_desmoronamento",
+    "descricao": "obras area com desmoronamento",
+    "imageLocal": "images/obras_area_com_desmoronamento.png"
+  },
+  {
+    "id": "obras_caminhoes_na_pista",
+    "descricao": "obras caminhoes na pista",
+    "imageLocal": "images/obras_caminhoes_na_pista.png"
+  },
+  {
+    "id": "obras_depressao",
+    "descricao": "obras depressao",
+    "imageLocal": "images/obras_depressao.png"
+  },
+  {
+    "id": "obras_desvio_a_direita_2",
+    "descricao": "obras desvio a direita 2",
+    "imageLocal": "images/obras_desvio_a_direita_2.png"
+  },
+  {
+    "id": "obras_desvio_a_direita",
+    "descricao": "obras desvio a direita",
+    "imageLocal": "images/obras_desvio_a_direita.png"
+  },
+  {
+    "id": "obras_desvio_a_esquerda_2",
+    "descricao": "obras desvio a esquerda 2",
+    "imageLocal": "images/obras_desvio_a_esquerda_2.png"
+  },
+  {
+    "id": "obras_desvio_a_esquerda",
+    "descricao": "obras desvio a esquerda",
+    "imageLocal": "images/obras_desvio_a_esquerda.png"
+  },
+  {
+    "id": "obras_estreitamento_de_pista_a_direita",
+    "descricao": "obras estreitamento de pista a direita",
+    "imageLocal": "images/obras_estreitamento_de_pista_a_direita.png"
+  },
+  {
+    "id": "obras_estreitamento_de_pista_a_esquerda",
+    "descricao": "obras estreitamento de pista a esquerda",
+    "imageLocal": "images/obras_estreitamento_de_pista_a_esquerda.png"
+  },
+  {
+    "id": "obras_estreitamento_de_pista_ao_centro",
+    "descricao": "obras estreitamento de pista ao centro",
+    "imageLocal": "images/obras_estreitamento_de_pista_ao_centro.png"
+  },
+  {
+    "id": "obras_fim_de_obras",
+    "descricao": "obras fim de obras",
+    "imageLocal": "images/obras_fim_de_obras.png"
+  },
+  {
+    "id": "obras_inicio_de_pista_dividida",
+    "descricao": "obras inicio de pista dividida",
+    "imageLocal": "images/obras_inicio_de_pista_dividida.png"
+  },
+  {
+    "id": "obras_largura_limitada",
+    "descricao": "obras largura limitada",
+    "imageLocal": "images/obras_largura_limitada.png"
+  },
+  {
+    "id": "obras_lombada",
+    "descricao": "obras lombada",
+    "imageLocal": "images/obras_lombada.png"
+  },
+  {
+    "id": "obras_mao_dupla_adiante",
+    "descricao": "obras mao dupla adiante",
+    "imageLocal": "images/obras_mao_dupla_adiante.png"
+  },
+  {
+    "id": "obras_obras_adiante",
+    "descricao": "obras obras adiante",
+    "imageLocal": "images/obras_obras_adiante.png"
+  },
+  {
+    "id": "obras_parada_obrigatoria_a_frente",
+    "descricao": "obras parada obrigatoria a frente",
+    "imageLocal": "images/obras_parada_obrigatoria_a_frente.png"
+  },
+  {
+    "id": "obras_pista_escorregadia",
+    "descricao": "obras pista escorregadia",
+    "imageLocal": "images/obras_pista_escorregadia.png"
+  },
+  {
+    "id": "obras_pista_irregular",
+    "descricao": "obras pista irregular",
+    "imageLocal": "images/obras_pista_irregular.png"
+  },
+  {
+    "id": "obras_projecao_de_cascalho",
+    "descricao": "obras projecao de cascalho",
+    "imageLocal": "images/obras_projecao_de_cascalho.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_10",
+    "descricao": "placas de fiscalizacao eletronica 10",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_10.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_11",
+    "descricao": "placas de fiscalizacao eletronica 11",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_11.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_12",
+    "descricao": "placas de fiscalizacao eletronica 12",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_12.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_2",
+    "descricao": "placas de fiscalizacao eletronica 2",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_2.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_3",
+    "descricao": "placas de fiscalizacao eletronica 3",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_3.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_4",
+    "descricao": "placas de fiscalizacao eletronica 4",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_4.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_5",
+    "descricao": "placas de fiscalizacao eletronica 5",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_5.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_6",
+    "descricao": "placas de fiscalizacao eletronica 6",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_6.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_7",
+    "descricao": "placas de fiscalizacao eletronica 7",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_7.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_8",
+    "descricao": "Fiscalização eletrônica de velocidade – Indica ao condutor que o trecho da via está sendo monitorado por equipamento eletrônico para controle de velocidade.",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_8.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica_9",
+    "descricao": "Fiscalização eletrônica de velocidade – Indica ao condutor que o trecho da via está sendo monitorado por equipamento eletrônico para controle de velocidade.",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica_9.png"
+  },
+  {
+    "id": "placas_de_fiscalizacao_eletronica",
+    "descricao": "Fiscalização eletrônica – Informa que a via está sob monitoramento eletrônico para verificação de infrações, como excesso de velocidade, avanço de sinal ou parada sobre a faixa de pedestres.",
+    "imageLocal": "images/placas_de_fiscalizacao_eletronica.png"
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "id": "R-5aProibido_retornara_esquerda",
+    "descricao": "Proibido retornar à esquerda",
+    "imageLocal": "images/R-5aProibido_retornara_esquerda.png"
+  },
+  {
+    "id": "R-8aProibido_mudarde_faixapara_a_direita",
+    "descricao": "Proibido mudar de faixa para a direita",
+    "imageLocal": "images/R-8aProibido_mudarde_faixapara_a_direita.png"
+  },
+  {
+    "id": "R-6bEstacionamentoregulamentado",
+    "descricao": "Estacionamento regulamentado",
+    "imageLocal": "images/R-6bEstacionamentoregulamentado.png"
+  },
+  {
+    "id": "R-10Proibidotransito_deautomoveis",
+    "descricao": "Proibido trânsito de automóveis",
+    "imageLocal": "images/R-10Proibidotransito_deautomoveis.png"
+  },
+  {
+    "id": "R-6cProibidoparar_eestacionar",
+    "descricao": "Proibido parar e estacionar",
+    "imageLocal": "images/R-6cProibidoparar_eestacionar.png"
+  },
+  {
+    "id": "R-13Proibidotransito_detratores",
+    "descricao": "Proibido trânsito de tratores",
+    "imageLocal": "images/R-13Proibidotransito_detratores.png"
+  },
+  {
+    "id": "R-15Alturamaximapermitida",
+    "descricao": "Altura máxima permitida",
+    "imageLocal": "images/R-15Alturamaximapermitida.png"
+  },
+  {
+    "id": "R-3Sentido_proibido_Nao_entre_",
+    "descricao": "Sentido proibido (Não entre)",
+    "imageLocal": "images/R-3Sentido_proibido_Nao_entre_.png"
+  },
+  {
+    "id": "R-18Comprimentomaximo_permitido",
+    "descricao": "Comprimento máximo permitido",
+    "imageLocal": "images/R-18Comprimentomaximo_permitido.png"
+  },
+  {
+    "id": "R-21Alfandega",
+    "descricao": "Alfândega",
+    "imageLocal": "images/R-21Alfandega.png"
+  },
+  {
+    "id": "R-25dSiga_em_frenteou_a_direita",
+    "descricao": "Siga em frente ou à direita",
+    "imageLocal": "images/R-25dSiga_em_frenteou_a_direita.png"
+  },
+  {
+    "id": "R-2De_apreferencia",
+    "descricao": "Dê a preferência",
+    "imageLocal": "images/R-2De_apreferencia.png"
+  },
+  {
+    "id": "R-30Pedestre_ande_pelaesquerda",
+    "descricao": "Pedestre, ande pela esquerda",
+    "imageLocal": "images/R-30Pedestre_ande_pelaesquerda.png"
+  },
+  {
+    "id": "R-25cSiga_em_frenteou_a_esquerda",
+    "descricao": "Siga em frente ou à esquerda",
+    "imageLocal": "images/R-25cSiga_em_frenteou_a_esquerda.png"
+  },
+  {
+    "id": "R-4bProibido_virara_direita",
+    "descricao": "Proibido virar à direita",
+    "imageLocal": "images/R-4bProibido_virara_direita.png"
+  },
+  {
+    "id": "R-8bProibido_mudarde_faixapara_a_esquerda",
+    "descricao": "Proibido mudar de faixa para a esquerda",
+    "imageLocal": "images/R-8bProibido_mudarde_faixapara_a_esquerda.png"
+  },
+  {
+    "id": "R-4aProibido_virara_esquerda",
+    "descricao": "Proibido virar à esquerda",
+    "imageLocal": "images/R-4aProibido_virara_esquerda.png"
+  },
+  {
+    "id": "R-28Sentidoduplo",
+    "descricao": "Sentido duplo",
+    "imageLocal": "images/R-28Sentidoduplo.png"
+  },
+  {
+    "id": "R-32Circulacaoexclusiva_deonibus",
+    "descricao": "Circulação exclusiva de ônibus",
+    "imageLocal": "images/R-32Circulacaoexclusiva_deonibus.png"
+  },
+  {
+    "id": "R-20Proibido_acionarbuzina_ou_sinalsonoro",
+    "descricao": "Proibido acionar buzina ou sinal sonoro",
+    "imageLocal": "images/R-20Proibido_acionarbuzina_ou_sinalsonoro.png"
+  },
+  {
+    "id": "R-17Peso_maximopermitidopor_eixo",
+    "descricao": "Peso máximo permitido por eixo",
+    "imageLocal": "images/R-17Peso_maximopermitidopor_eixo.png"
+  },
+  {
+    "id": "R-6aProibidoestacionar",
+    "descricao": "Proibido estacionar",
+    "imageLocal": "images/R-6aProibidoestacionar.png"
+  },
+  {
+    "id": "R-9Proibidotransito_decaminhoes",
+    "descricao": "Proibido trânsito de caminhões",
+    "imageLocal": "images/R-9Proibidotransito_decaminhoes.png"
+  },
+  {
+    "id": "R-35aCiclista_transite_aesquerda",
+    "descricao": "Ciclista, transite à esquerda",
+    "imageLocal": "images/R-35aCiclista_transite_aesquerda.png"
+  },
+  {
+    "id": "R-25aVirea_esquerda",
+    "descricao": "Vire à esquerda",
+    "imageLocal": "images/R-25aVirea_esquerda.png"
+  },
+  {
+    "id": "R-24bPassagemobrigatoria",
+    "descricao": "Passagem obrigatória",
+    "imageLocal": "images/R-24bPassagemobrigatoria.png"
+  },
+  {
+    "id": "R-1Paradaobrigatoria",
+    "descricao": "Parada obrigatória",
+    "imageLocal": "images/R-1Paradaobrigatoria.png"
+  },
+  {
+    "id": "R-34Circulacaoexclusiva_debicicletas",
+    "descricao": "Circulação exclusiva de bicicletas",
+    "imageLocal": "images/R-34Circulacaoexclusiva_debicicletas.png"
+  },
+  {
+    "id": "R-12Proibidotransito_debicicletas",
+    "descricao": "Proibido trânsito de bicicletas",
+    "imageLocal": "images/R-12Proibidotransito_debicicletas.png"
+  },
+  {
+    "id": "R-5bProibido_retornara_direita",
+    "descricao": "Proibido retornar à direita",
+    "imageLocal": "images/R-5bProibido_retornara_direita.png"
+  },
+  {
+    "id": "R-11Proibidotransito_de_veiculos_detracao_animal",
+    "descricao": "Proibido trânsito de  veículos de tração animal",
+    "imageLocal": "images/R-11Proibidotransito_de_veiculos_detracao_animal.png"
+  },
+  {
+    "id": "R-14Peso_brutototal_maximopermitido",
+    "descricao": "Peso brutototal máximo permitido",
+    "imageLocal": "images/R-14Peso_brutototal_maximopermitido.png"
+  },
+  {
+    "id": "R-16Largura_maximapermitida",
+    "descricao": "Largura máxima permitida",
+    "imageLocal": "images/R-16Largura_maximapermitida.png"
+  },
+  {
+    "id": "A-3bPista_sinuosa_a_Direita",
+    "descricao": "Pista sinuosa  à Direita",
+    "imageLocal": "images/A-3bPista_sinuosa_a_Direita.png"
+  },
+  {
+    "id": "A-1bCurvaAcentuadaa_Direita",
+    "descricao": "Curva Acentuada à Direita",
+    "imageLocal": "images/A-1bCurvaAcentuadaa_Direita.png"
+  },
+  {
+    "id": "R-7Proibidoultrapassar",
+    "descricao": "Proibido ultrapassar",
+    "imageLocal": "images/R-7Proibidoultrapassar.png"
+  },
+  {
+    "id": "A-3aPista_sinuosa_a_Esquerda",
+    "descricao": "Pista sinuosa  à Esquerda",
+    "imageLocal": "images/A-3aPista_sinuosa_a_Esquerda.png"
+  },
+  {
+    "id": "R-23Conserve-sea_direita",
+    "descricao": "Conserve-se à direita",
+    "imageLocal": "images/R-23Conserve-sea_direita.png"
+  },
+  {
+    "id": "A-5aCurva_em__S_a_Esquerda",
+    "descricao": "Curva em \"S\" à Esquerda",
+    "imageLocal": "images/A-5aCurva_em__S_a_Esquerda.png"
+  },
+  {
+    "id": "R-22Uso_obrigatoriode_corrente",
+    "descricao": "Uso obrigatório de corrente",
+    "imageLocal": "images/R-22Uso_obrigatoriode_corrente.png"
+  },
+  {
+    "id": "R-40Transitoproibido_acarros_de_mao",
+    "descricao": "Trânsito proibido a carros de mão",
+    "imageLocal": "images/R-40Transitoproibido_acarros_de_mao.png"
+  },
+  {
+    "id": "R-24aSentidoobrigatorio",
+    "descricao": "Sentido obrigatório",
+    "imageLocal": "images/R-24aSentidoobrigatorio.png"
+  },
+  {
+    "id": "A-1aCurvaAcentuadaa_Esquerda",
+    "descricao": "Curva Acentuada à Esquerda",
+    "imageLocal": "images/A-1aCurvaAcentuadaa_Esquerda.png"
+  },
+  {
+    "id": "R-19Velocidademaximapermitida",
+    "descricao": "Velocidade máxima permitida",
+    "imageLocal": "images/R-19Velocidademaximapermitida.png"
+  },
+  {
+    "id": "R-25bVirea_direita",
+    "descricao": "Vire à direita",
+    "imageLocal": "images/R-25bVirea_direita.png"
+  },
+  {
+    "id": "R-36bPedestres_aesquerda__ciclistas_a_direita",
+    "descricao": "Pedestres à esquerda, ciclistas à  direita",
+    "imageLocal": "images/R-36bPedestres_aesquerda__ciclistas_a_direita.png"
+  },
+  {
+    "id": "R-36aCiclistas_aesquerda__pedestres_a_direita",
+    "descricao": "Ciclistas à esquerda, pedestres à  direita",
+    "imageLocal": "images/R-36aCiclistas_aesquerda__pedestres_a_direita.png"
+  },
+  {
+    "id": "R-33Rotatoria",
+    "descricao": "Rotatória",
+    "imageLocal": "images/R-33Rotatoria.png"
+  },
+  {
+    "id": "A-5bCurva_em__S_a_Direita",
+    "descricao": "Curva em \"S\" à Direita",
+    "imageLocal": "images/A-5bCurva_em__S_a_Direita.png"
+  },
+  {
+    "id": "R-26Siga_em_frente",
+    "descricao": "Siga em frente",
+    "imageLocal": "images/R-26Siga_em_frente.png"
+  },
+  {
+    "id": "R-27Veiculos_pesadosmantenham-sea_direita",
+    "descricao": "Veículos pesados mantenham-se à direita",
+    "imageLocal": "images/R-27Veiculos_pesadosmantenham-sea_direita.png"
+  },
+  {
+    "id": "A-11aJuncoes_Contrarias_-_Primeira_a_Esquerda",
+    "descricao": "Junções Contrárias -  Primeira à Esquerda",
+    "imageLocal": "images/A-11aJuncoes_Contrarias_-_Primeira_a_Esquerda.png"
+  },
+  {
+    "id": "R-29Proibidotransito_depedestres",
+    "descricao": "Proibido trânsito de pedestres",
+    "imageLocal": "images/R-29Proibidotransito_depedestres.png"
+  },
+  {
+    "id": "A-7bEntroncamentoa_Direita",
+    "descricao": "Entroncamento à Direita",
+    "imageLocal": "images/A-7bEntroncamentoa_Direita.png"
+  },
+  {
+    "id": "R-31Pedestre_ande_peladireita",
+    "descricao": "Pedestre, ande pela direita",
+    "imageLocal": "images/R-31Pedestre_ande_peladireita.png"
+  },
+  {
+    "id": "R-38Proibido_transito_deonibus",
+    "descricao": "Proibido trânsito de ônibus",
+    "imageLocal": "images/R-38Proibido_transito_deonibus.png"
+  },
+  {
+    "id": "A-13aConfluencia_a_Direita",
+    "descricao": "Confluência  à Direita",
+    "imageLocal": "images/A-13aConfluencia_a_Direita.png"
+  },
+  {
+    "id": "R-35bCiclista_transite_adireita",
+    "descricao": "Ciclista, transite à direita",
+    "imageLocal": "images/R-35bCiclista_transite_adireita.png"
+  },
+  {
+    "id": "A-11bJuncoes_Contrarias_-_Primeira_a_Direita",
+    "descricao": "Junções Contrárias -  Primeira à Direita",
+    "imageLocal": "images/A-11bJuncoes_Contrarias_-_Primeira_a_Direita.png"
+  },
+  {
+    "id": "A-17Pista_Irregular",
+    "descricao": "Pista Irregular",
+    "imageLocal": "images/A-17Pista_Irregular.png"
+  },
+  {
+    "id": "R-37Proibido_transito_demotocicletas_motonetas_eciclomotores",
+    "descricao": "Proibido trânsito de motocicletas, motonetas e ciclomotores",
+    "imageLocal": "images/R-37Proibido_transito_demotocicletas_motonetas_eciclomotores.png"
+  },
+  {
+    "id": "R-39Circulacaoexclusiva_decaminhoes",
+    "descricao": "Circulação exclusiva de caminhões",
+    "imageLocal": "images/R-39Circulacaoexclusiva_decaminhoes.png"
+  },
+  {
+    "id": "A-4aCurva_Acentuada_em__S__a_Esquerda",
+    "descricao": "Curva  Acentuada  em \"S\"  à Esquerda",
+    "imageLocal": "images/A-4aCurva_Acentuada_em__S__a_Esquerda.png"
+  },
+  {
+    "id": "A-16Bonde_VLT",
+    "descricao": "Bonde/VLT",
+    "imageLocal": "images/A-16Bonde_VLT.png"
+  },
+  {
+    "id": "A-2aCurvaa_Esquerda",
+    "descricao": "Curva à Esquerda",
+    "imageLocal": "images/A-2aCurvaa_Esquerda.png"
+  },
+  {
+    "id": "A-19Depressao",
+    "descricao": "Depressão",
+    "imageLocal": "images/A-19Depressao.png"
+  },
+  {
+    "id": "A-21aEstreitamentode_Pista_ao_Centro",
+    "descricao": "Estreitamento de Pista ao Centro",
+    "imageLocal": "images/A-21aEstreitamentode_Pista_ao_Centro.png"
+  },
+  {
+    "id": "A-20bAcliveAcentuado",
+    "descricao": "Aclive Acentuado",
+    "imageLocal": "images/A-20bAcliveAcentuado.png"
+  },
+  {
+    "id": "A-10bEntroncamentoObliquo_a_Direita",
+    "descricao": "Entroncamento Oblíquo à Direita",
+    "imageLocal": "images/A-10bEntroncamentoObliquo_a_Direita.png"
+  },
+  {
+    "id": "A-21dAlargamentode_Pista_a_Esquerda",
+    "descricao": "Alargamento de Pista à Esquerda",
+    "imageLocal": "images/A-21dAlargamentode_Pista_a_Esquerda.png"
+  },
+  {
+    "id": "A-2bCurvaa_Direita",
+    "descricao": "Curva à Direita",
+    "imageLocal": "images/A-2bCurvaa_Direita.png"
+  },
+  {
+    "id": "A-4bCurva_Acentuada_em__S__a_Direita",
+    "descricao": "Curva  Acentuada  em \"S\"  à Direita",
+    "imageLocal": "images/A-4bCurva_Acentuada_em__S__a_Direita.png"
+  },
+  {
+    "id": "A-12Carrossel",
+    "descricao": "Carrossel",
+    "imageLocal": "images/A-12Carrossel.png"
+  },
+  {
+    "id": "A-26bSentido_Duplo",
+    "descricao": "Sentido Duplo",
+    "imageLocal": "images/A-26bSentido_Duplo.png"
+  },
+  {
+    "id": "A-29Projecaode_Cascalho",
+    "descricao": "Projeçãode Cascalho",
+    "imageLocal": "images/A-29Projecaode_Cascalho.png"
+  },
+  {
+    "id": "A-24Obras",
+    "descricao": "Obras",
+    "imageLocal": "images/A-24Obras.png"
+  },
+  {
+    "id": "A-15Parada_a_Frente",
+    "descricao": "Parada à Frente",
+    "imageLocal": "images/A-15Parada_a_Frente.png"
+  },
+  {
+    "id": "A-8Intersecao_em_T",
+    "descricao": "Interseção  em T",
+    "imageLocal": "images/A-8Intersecao_em_T.png"
+  },
+  {
+    "id": "A-7aEntroncamentoa_Esquerda",
+    "descricao": "Entroncamento à Esquerda",
+    "imageLocal": "images/A-7aEntroncamentoa_Esquerda.png"
+  },
+  {
+    "id": "A-6Cruzamento",
+    "descricao": "Cruzamento",
+    "imageLocal": "images/A-6Cruzamento.png"
+  },
+  {
+    "id": "A-31Transito_de_Tratores",
+    "descricao": "Trânsito de Tratores",
+    "imageLocal": "images/A-31Transito_de_Tratores.png"
+  },
+  {
+    "id": "A-18Salienciaou_Lombada",
+    "descricao": "Saliência ou Lombada",
+    "imageLocal": "images/A-18Salienciaou_Lombada.png"
+  },
+  {
+    "id": "A-10aEntroncamentoObliquo_a_Esquerda",
+    "descricao": "Entroncamento Oblíquo à Esquerda",
+    "imageLocal": "images/A-10aEntroncamentoObliquo_a_Esquerda.png"
+  },
+  {
+    "id": "A-9Bifurcacao_em_Y",
+    "descricao": "Bifurcação  em Y",
+    "imageLocal": "images/A-9Bifurcacao_em_Y.png"
+  },
+  {
+    "id": "A-28PistaEscorregadia",
+    "descricao": "Pista Escorregadia",
+    "imageLocal": "images/A-28PistaEscorregadia.png"
+  },
+  {
+    "id": "A-32aPassagem_de_Pedestres",
+    "descricao": "Passagem de Pedestres",
+    "imageLocal": "images/A-32aPassagem_de_Pedestres.png"
+  },
+  {
+    "id": "A-27Area_com_Desmoronamento",
+    "descricao": "Área com Desmoronamento",
+    "imageLocal": "images/A-27Area_com_Desmoronamento.png"
+  },
+  {
+    "id": "A-37Alturalimitada",
+    "descricao": "Alturalimitada",
+    "imageLocal": "images/A-37Alturalimitada.png"
+  },
+  {
+    "id": "A-13aConfluencia_a_Esquerda",
+    "descricao": "Confluência  à Esquerda",
+    "imageLocal": "images/A-13aConfluencia_a_Esquerda.png"
+  },
+  {
+    "id": "A-41Cruz_deSanto_Andre",
+    "descricao": "Cruz de Santo André",
+    "imageLocal": "images/A-41Cruz_deSanto_Andre.png"
+  },
+  {
+    "id": "A-20aDecliveAcentuado",
+    "descricao": "Declive Acentuado",
+    "imageLocal": "images/A-20aDecliveAcentuado.png"
+  },
+  {
+    "id": "A-14Semaforoa_Frente",
+    "descricao": "Semáforo à Frente",
+    "imageLocal": "images/A-14Semaforoa_Frente.png"
+  },
+  {
+    "id": "A-21cEstreitamentode_Pista_a_Direita",
+    "descricao": "Estreitamento de Pista à Direita",
+    "imageLocal": "images/A-21cEstreitamentode_Pista_a_Direita.png"
+  },
+  {
+    "id": "A-45Rua_sem_Saida",
+    "descricao": "Rua sem Saída",
+    "imageLocal": "images/A-45Rua_sem_Saida.png"
+  },
+  {
+    "id": "A-47Peso_Limitadopor_Eixo",
+    "descricao": "Peso Limitado por Eixo",
+    "imageLocal": "images/A-47Peso_Limitadopor_Eixo.png"
+  },
+  {
+    "id": "A-23Ponte_movel",
+    "descricao": "Ponte móvel",
+    "imageLocal": "images/A-23Ponte_movel.png"
+  },
+  {
+    "id": "A-21eAlargamentode_Pista_a_Direita",
+    "descricao": "Alargamento de Pista à Direita",
+    "imageLocal": "images/A-21eAlargamentode_Pista_a_Direita.png"
+  },
+  {
+    "id": "A-25Mao_Duplaa_Frente",
+    "descricao": "Mão Dupla à Frente",
+    "imageLocal": "images/A-25Mao_Duplaa_Frente.png"
+  },
+  {
+    "id": "A-21bEstreitamentode_Pista_a_Esquerda",
+    "descricao": "Estreitamento de Pista à Esquerda",
+    "imageLocal": "images/A-21bEstreitamentode_Pista_a_Esquerda.png"
+  },
+  {
+    "id": "A-22PonteEstreita",
+    "descricao": "Ponte Estreita",
+    "imageLocal": "images/A-22PonteEstreita.png"
+  },
+  {
+    "id": "A-30cTransitode_Ciclistas_e_Pedestres",
+    "descricao": "Trânsitode Ciclistas  e Pedestres",
+    "imageLocal": "images/A-30cTransitode_Ciclistas_e_Pedestres.png"
+  },
+  {
+    "id": "A-26aSentidoUnico",
+    "descricao": "SentidoÚnico",
+    "imageLocal": "images/A-26aSentidoUnico.png"
+  },
+  {
+    "id": "A-32bPassagem_Sinalizada_de_Pedestres",
+    "descricao": "Passagem  Sinalizada de Pedestres",
+    "imageLocal": "images/A-32bPassagem_Sinalizada_de_Pedestres.png"
+  },
+  {
+    "id": "A-30aTransitode_Ciclistas",
+    "descricao": "Trânsitode Ciclistas",
+    "imageLocal": "images/A-30aTransitode_Ciclistas.png"
+  },
+  {
+    "id": "A-40Passagemde_Nivel_comBarreira",
+    "descricao": "Passagem de Nível com Barreira",
+    "imageLocal": "images/A-40Passagemde_Nivel_comBarreira.png"
+  },
+  {
+    "id": "120px-Cuidar_do_patrimonio_natural_rs_placa_educativa",
+    "descricao": "Ajude a cuidar do patrimônio naturaldirija com atenção",
+    "imageLocal": "images/120px-Cuidar_do_patrimonio_natural_rs_placa_educativa.png"
+  },
+  {
+    "id": "A-44Vento_Lateral",
+    "descricao": "Vento Lateral",
+    "imageLocal": "images/A-44Vento_Lateral.png"
+  },
+  {
+    "id": "A-33bPassagem_Sinalizadade_Escolares",
+    "descricao": "Passagem Sinalizadade Escolares",
+    "imageLocal": "images/A-33bPassagem_Sinalizadade_Escolares.png"
+  },
+  {
+    "id": "A-33aArea_Escolar",
+    "descricao": "Área Escolar",
+    "imageLocal": "images/A-33aArea_Escolar.png"
+  },
+  {
+    "id": "A-34Criancas",
+    "descricao": "Crianças",
+    "imageLocal": "images/A-34Criancas.png"
+  },
+  {
+    "id": "120px-Preserve_a_natureza_rs_placa_educativa",
+    "descricao": "Preserve a naturezapense nasgerações futuras",
+    "imageLocal": "images/120px-Preserve_a_natureza_rs_placa_educativa.png"
+  },
+  {
+    "id": "120px-Obedece_a_sinalizacao_br_placa_educativa",
+    "descricao": "Obedeça asinalização",
+    "imageLocal": "images/120px-Obedece_a_sinalizacao_br_placa_educativa.png"
+  },
+  {
+    "id": "A-46Peso_BrutoTotal_Limitado",
+    "descricao": "Peso BrutoTotal Limitado",
+    "imageLocal": "images/A-46Peso_BrutoTotal_Limitado.png"
+  },
+  {
+    "id": "A-39Passagemde_Nivel_semBarreira",
+    "descricao": "Passagem de Nível sem Barreira",
+    "imageLocal": "images/A-39Passagemde_Nivel_semBarreira.png"
+  },
+  {
+    "id": "A-35Animais",
+    "descricao": "Animais",
+    "imageLocal": "images/A-35Animais.png"
+  },
+  {
+    "id": "A-42aInicio_de_PistaDupla",
+    "descricao": "Início de PistaDupla",
+    "imageLocal": "images/A-42aInicio_de_PistaDupla.png"
+  },
+  {
+    "id": "120px-Nao_jogue_lixo_rs_placa_educativa",
+    "descricao": "Não jogue lixo  na rodovia natureza agradece",
+    "imageLocal": "images/120px-Nao_jogue_lixo_rs_placa_educativa.png"
+  },
+  {
+    "id": "A-42bFim_de_PistaDupla",
+    "descricao": "Fim de PistaDupla",
+    "imageLocal": "images/A-42bFim_de_PistaDupla.png"
+  },
+  {
+    "id": "A-30bPassagem_Sinalizada_de_Ciclistas",
+    "descricao": "Passagem Sinalizada de Ciclistas",
+    "imageLocal": "images/A-30bPassagem_Sinalizada_de_Ciclistas.png"
+  },
+  {
+    "id": "A-38Larguralimitada",
+    "descricao": "Larguralimitada",
+    "imageLocal": "images/A-38Larguralimitada.png"
+  },
+  {
+    "id": "A-36Animaisselvagens",
+    "descricao": "Animaisselvagens",
+    "imageLocal": "images/A-36Animaisselvagens.png"
+  },
+  {
+    "id": "A-48Comprimentolimitado",
+    "descricao": "Comprimentolimitado",
+    "imageLocal": "images/A-48Comprimentolimitado.png"
+  },
+  {
+    "id": "A-43Aeroporto",
+    "descricao": "Aeroporto",
+    "imageLocal": "images/A-43Aeroporto.png"
+  },
+  {
+    "id": "120px-Use_o_cinto_br_placa_educativa",
+    "descricao": "Use o cintode segurança",
+    "imageLocal": "images/120px-Use_o_cinto_br_placa_educativa.png"
+  },
+  {
+    "id": "A-42cPista_Dividida",
+    "descricao": "Pista Dividida",
+    "imageLocal": "images/A-42cPista_Dividida.png"
+  }
+]
