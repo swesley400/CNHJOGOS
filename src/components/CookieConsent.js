@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import './CookieConsent.css';
 
 function CookieConsent() {
@@ -21,7 +22,7 @@ function CookieConsent() {
   return (
     <div className="cookie-consent">
       <div className="cookie-content">
-        <p>Este site utiliza cookies para melhorar sua experiência. Ao continuar navegando, você concorda com nossa <a href="/politica-de-privacidade">política de privacidade</a>.</p>
+        <p>Este site utiliza cookies para melhorar sua experiência. Ao continuar navegando, você concorda com nossa <Link to="/politica-de-privacidade">política de privacidade</Link>.</p>
         <button onClick={acceptCookies}>Entendi</button>
       </div>
     </div>
