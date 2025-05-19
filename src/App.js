@@ -1,6 +1,7 @@
 import './App.css';
 import SignGame from './components/SignGame';
 import Banner from './components/Banner';
+import CookieConsent from './components/CookieConsent';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <main>
         <SignGame />
       </main>
+      <CookieConsent />
     </div>
   );
 }
