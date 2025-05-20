@@ -4,6 +4,7 @@ import Banner from './components/Banner';
 import CookieConsent from './components/CookieConsent';
 import PrivacyPolicy from './components/PrivacyPolicy';
 import SEOContent from './components/SEOContent';
+import AdPlaceholder from './components/AdPlaceholder';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -21,7 +22,8 @@ function App() {
               <Banner />
               <main>
                 <SignGame />
-                {/* <SEOContent /> */}
+                <AdPlaceholder id={101} />
+                <SEOContent />
               </main>
             </>
           } />
