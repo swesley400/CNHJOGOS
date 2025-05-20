@@ -1,0 +1,3 @@
+# This file automatically redirects to the Ezoic Ads.txt Manager
+# Location: https://srv.adstxtmanager.com/19390/cnhjogos.com.br
+Redirect 301 /ads.txt https://srv.adstxtmanager.com/19390/cnhjogos.com.br
