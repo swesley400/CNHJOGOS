@@ -36,9 +36,17 @@ function PrivacyPolicy() {
           <li>Gerar estatísticas anônimas sobre o uso do site</li>
         </ul>
         
-        <h2>3. Google AdSense</h2>
+        <h2>3. Serviços de Anúncios</h2>
         
-        <p>Utilizamos o Google AdSense para exibir anúncios. O Google utiliza cookies DART para exibir anúncios com base nas visitas dos usuários ao nosso site e a outros sites na internet. Os usuários podem desativar o uso do cookie DART visitando a <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">Política de privacidade da rede de conteúdo e dos anúncios do Google</a>.</p>
+        <p>Utilizamos o Google AdSense e Ezoic para exibir anúncios. Estes serviços utilizam cookies para exibir anúncios com base nas visitas dos usuários ao nosso site e a outros sites na internet. Os usuários podem desativar o uso do cookie DART visitando a <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">Política de privacidade da rede de conteúdo e dos anúncios do Google</a>.</p>
+        
+        <h2>3.1 Política de Privacidade do Ezoic</h2>
+        
+        <p>Utilizamos a plataforma Ezoic para otimização de anúncios e análises. Abaixo estão as informações sobre como o Ezoic processa dados e seus cookies:</p>
+        
+        <span id="ezoic-privacy-policy-embed"></span>
+        
+        <p>Para mais informações sobre como o Ezoic processa seus dados, visite <a href="https://www.ezoic.com/privacy-policy/" target="_blank" rel="noopener noreferrer">a política de privacidade do Ezoic</a>.</p>
         
         <h2>4. Seus direitos</h2>
         

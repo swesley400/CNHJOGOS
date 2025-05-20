@@ -5,6 +5,7 @@ import CookieConsent from './components/CookieConsent';
 import PrivacyPolicy from './components/PrivacyPolicy';
 import SEOContent from './components/SEOContent';
 import AdPlaceholder from './components/AdPlaceholder';
+import AdsTxt from './components/AdsTxt';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
+          <Route path="/ads.txt" element={<AdsTxt />} />
           <Route path="/politica-de-privacidade" element={<PrivacyPolicy />} />
           <Route path="/" element={
             <>
