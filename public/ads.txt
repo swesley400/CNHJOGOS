@@ -1,3 +1,13 @@
-# This file automatically redirects to the Ezoic Ads.txt Manager
-# Location: https://srv.adstxtmanager.com/19390/cnhjogos.com.br
-Redirect 301 /ads.txt https://srv.adstxtmanager.com/19390/cnhjogos.com.br
+#Ads.txt cnhjogos.com.br
+#Ads.txt managed by AdsTxtManager.com - the free ads.txt management tool for publishers
+ownerdomain=cnhjogos.com.br
+contact=directsales@ezoic.com
+managerdomain=ezoic.ai
+
+ezoic.ai, 03d0eed5a9399d5501c9df19b819061a, DIRECT
+# 35
+themediagrid.com, 4M5PGT, DIRECT, 35d5010d7789b49d
+themediagrid.com, Q19AKF, DIRECT, 35d5010d7789b49d
+sonobi.com, 192ecdea01, RESELLER, d1a215d9eb5aee9e
+google.com, pub-6644558441501035, DIRECT, f08c47fec0942fa0
+google.com, pub-1175987143200523, RESELLER, f08c47fec0942fa0
